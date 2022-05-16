@@ -1,12 +1,3 @@
-* 博客基于Hydejack以及Ruby和Jekyll和Netlify协力运行  
-  
-> 测试站点网站部署状态[Netlify Status]:  
-[![Netlify Status](https://api.netlify.com/api/v1/badges/47d5586d-25a8-41eb-b02a-94cde1ee5efe/deploy-status)](https://app.netlify.com/sites/jdsalingblog/deploys)
-
-   
-> Hydejack-Link:  
-[Hydejack](https://hydejack.com/).
-  
 ===============================================  
 # Type on Strap 🎨
 
