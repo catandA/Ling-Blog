@@ -5,7 +5,7 @@ str_share_on: "分享至"
 str_add_to: "添加至"
 str_email: "邮箱"
 str_tweet: "推特"
-str_pin_it: "Pin 他"
+str_pin_it: "@他"
 str_next_post: "下一篇文章"
 str_previous_post: "上一篇文章"
 str_next_page: "下一篇"
@@ -17,4 +17,4 @@ str_cookie_disclaimer: "我们想用第三方的cookies和脚本，以改善本�
 str_months: [January, February, March, April, May, June, July, August, September, October, November, December]
 
 # Localization settings 
-cusdis_lang:#zh-cn, en
+cusdis_lang:# zh-cn, es, tr
