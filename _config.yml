@@ -6,7 +6,7 @@ url: "https://lingasdj.github.io"
 title: Blog                                # site's title
 description: "JDSA-Ling"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/img/triangle.png                           # Icon displayed in the tab
 
 # Header and footer text
 header_text: JDSALing-[Book]-Blog  # Change Blog header text
