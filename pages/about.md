@@ -24,11 +24,11 @@ public UsedSoft extends Pro{
        Active.SP(SoftTypeA);
        /*Tags: Google,Android,Dev*/
     }
-    public void Web(Visual Stuido Code) {
+    public void web(Visual Stuido Code) {
        Active.SP(SoftTypeB);
        /*Tags: Html,Js,Css,Vue,Markdown*/
     }
-    public void Unity(Visual Stuido Code) {
+    public void unity(Visual Stuido Code) {
        Active.SP(SoftTypeC);
        /*Tags:2d,3d,Unity-Test*/
     }
