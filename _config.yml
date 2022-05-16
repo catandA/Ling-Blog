@@ -3,7 +3,7 @@ baseurl: "/TOS-JDSALing-Blog"
 url: "https://lingasdj.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Blog                                # site's title
+title: 绫中之书                                # site's title
 description: "JDSA-Ling"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/img/triangle.png                           # Icon displayed in the tab
