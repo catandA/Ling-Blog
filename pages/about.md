@@ -5,11 +5,13 @@ permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
->你好，陌生人或者朋友，很高兴你来到我的新Blog  
+
+你好，陌生人或者朋友，很高兴你来到我的新Blog  
 由于腾讯云备案等问题，原Blog已经弃用，现在使用Jekyll进行部署  
 博主网名叫<code>JDSA Ling</code>,是一个在读的大学生，  
-主要在使用以下软件,这里以主体为Java代码表示：
-~~~java
+主要在使用以下软件,这里以主体为Java代码表示：  
+  
+```java
 private static final String SoftTypeA="IDEA";
 private static final String SoftTypeB="VSCD";
 private static final String SoftTypeC="UNY3";
@@ -28,21 +30,20 @@ public UsedSoft extends Pro{
        /*Tags:2d,3d,Unity-Test*/
     }
 }
-~~~
+```
+
 ---
 JDSALing非常愿意和大家交朋友，当然这是一个漫长的过程！  
 我的Github地址是：[JDSALing-Github](https://github.com/LingASDJ)  
 我主要在**像素地牢方面**和**铁锈战争**方面开发Mod!  
 > 我在像素地牢的Mod为：[魔绫的像素地牢](https://github.com/AnsdoShip/magic-ling-pixel-dungeon)  
 > 我在铁锈战争的Mod为：[星河尘埃无尽征途](https://jq.qq.com/?_wv=1027&k=uKbPmZMn)  
----
 > 我还在为了一些无多语言的地牢而积极部署多语言:  
 Top-1 自然之神的像素地牢 汉化已完成  [仓库地址](https://github.com/LingASDJ/DeisticPixelDungeon)  
 Top-2 困难发芽的像素地牢 汉化正进行 [仓库地址](https://github.com/LingASDJ/harder-sprouted-pd)  
 ---
 
 我的联系方式：
-
 > Discord:JDSA Ling#3793  
 > Mail: CutelinXXX@126.com  
 > QQ:2735951230
