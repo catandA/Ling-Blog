@@ -1,14 +1,52 @@
 ---
 layout: page
-title: About
+title: 关于博主
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
+>你好，陌生人或者朋友，很高兴你来到我的新Blog  
+由于腾讯云备案等问题，原Blog已经弃用，现在使用Jekyll进行部署  
+博主网名叫<code>JDSA Ling</code>,是一个在读的大学生，  
+主要在使用以下软件,这里以主体为Java代码表示：
+~~~java
+private static final String SoftTypeA="IDEA";
+private static final String SoftTypeB="VSCD";
+private static final String SoftTypeC="UNY3";
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+public UsedSoft extends Pro{
+    public void java(Android Stuido) {
+       Active.SP(SoftTypeA);
+       /*Tags: Google,Android,Dev*/
+    }
+    public void Web(Visual Stuido Code) {
+       Active.SP(SoftTypeB);
+       /*Tags: Html,Js,Css,Vue,Markdown*/
+    }
+    public void Unity(Visual Stuido Code) {
+       Active.SP(SoftTypeC);
+       /*Tags:2d,3d,Unity-Test*/
+    }
+}
+~~~
+---
+JDSALing非常愿意和大家交朋友，当然这是一个漫长的过程！  
+我的Github地址是：[JDSALing-Github](https://github.com/LingASDJ)  
+我主要在**像素地牢方面**和**铁锈战争**方面开发Mod!  
+> 我在像素地牢的Mod为：[魔绫的像素地牢](https://github.com/AnsdoShip/magic-ling-pixel-dungeon)  
+> 我在铁锈战争的Mod为：[星河尘埃无尽征途](https://jq.qq.com/?_wv=1027&k=uKbPmZMn)  
+---
+> 我还在为了一些无多语言的地牢而积极部署多语言:  
+Top-1 自然之神的像素地牢 汉化已完成  [仓库地址](https://github.com/LingASDJ/DeisticPixelDungeon)  
+Top-2 困难发芽的像素地牢 汉化正进行 [仓库地址](https://github.com/LingASDJ/harder-sprouted-pd)  
+---
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+我的联系方式：
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+> Discord:JDSA Ling#3793  
+> Mail: CutelinXXX@126.com  
+> QQ:2735951230
+
+![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffff00&bg_color=111111)
+
  
