@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 关于博主
+title: 关于我
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [Page]
+tags: [关于JDSALing]
 ---
 
 你好，陌生人或者朋友，很高兴你来到我的新Blog  
