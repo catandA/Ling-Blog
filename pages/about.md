@@ -10,7 +10,9 @@ tags: [Page]
 由于腾讯云备案等问题，原Blog已经弃用，现在使用Jekyll进行部署  
 博主网名叫<code>JDSA Ling</code>,是一个在读的大学生，  
 主要在使用以下软件,这里以主体为Java代码表示：  
-  
+
+---
+
 ```java
 private static final String SoftTypeA="IDEA";
 private static final String SoftTypeB="VSCD";
