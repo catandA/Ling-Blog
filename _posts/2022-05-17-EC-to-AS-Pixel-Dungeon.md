@@ -7,6 +7,8 @@ feature-img: "assets/img/pexels/computer.jpeg"
 ---
 
 ---
+撰写于2022年5月17日--建议阅读时间：20分钟
+
 ### 准备工作:
 
 | Ready Work |          需要的东西
@@ -98,5 +100,5 @@ android {
 那么，接下来，我们需要将里面的代码进行迁移。
 在你迁移的项目的根目录里面新建一个<font color="#ffff00">**app**文件夹</font>，我们所有的东西都会在这里！
 
-
+### 尚未完成
 ---
