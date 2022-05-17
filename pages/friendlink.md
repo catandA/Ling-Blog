@@ -6,6 +6,10 @@ tags: [友情链接]
 ---
 
 ---
+### Tmaize
+Tmaize的Blog--[**[Tmaize-Blog]**](https://blog.tmaize.net/)
+
+---
 ### Tianscar
 
 碳酸天剑的Blog--[**[Tianscacr-Blog]**](https://blog.tianscar.com)  
