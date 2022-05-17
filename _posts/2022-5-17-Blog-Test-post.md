@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 代码MD演示
-tags: [Katex, Markdown]
-author: JDSA Ling
+tags: [Java,C,Gradle]
+author: mmistakes
 ---
 
 **博客文档测试**
