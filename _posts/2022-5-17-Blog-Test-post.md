@@ -2,6 +2,7 @@
 layout: post
 title: 代码MD演示
 tags: [Katex, Markdown]
+author: JDSA Ling
 ---
 
 **博客文档测试**
