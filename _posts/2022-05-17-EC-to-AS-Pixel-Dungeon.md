@@ -46,9 +46,9 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 | List(全部文件列表) |          需求文件
 |-|-  
-| Root-File(根目录文件) | build.gradle gradlew settings.gradle gradlew.bat
-| App-File(app目录文件) | build.gradle
-
+| Root-File(根目录) | build.gradle gradlew settings.gradle gradlew.bat
+| App-File(app目录) | build.gradle
+| Src-File(src目录) | AndroidManifest.xml
 
 其中App文件下的/build.gradle为极其重要文件，其代码如下：
 ~~~gradle
