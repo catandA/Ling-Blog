@@ -95,5 +95,8 @@ android {
 <img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-4.jpg">
 从上方的截图，我们不难看出，Eclipse 地牢项目的主目录在 src 文件夹里面，如下图所示：
 <img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-5.jpg">
+那么，接下来，我们需要将里面的代码进行迁移。
+在你迁移的项目的根目录里面新建一个<font color="#ffff00">**app**文件夹</font>，我们所有的东西都会在这里！
+
 
 ---
