@@ -7,7 +7,7 @@ author: rohanchandra
 
 **博客文档测试**
 
-通过夜间/日常模式进行切换  
+
 ~~~java
 //TODO Java Code
 package com.watabou.noosa;
