@@ -3,7 +3,7 @@ layout: post
 title: 迁移Eclipse到Android Stuido的地牢项目教程
 tags: [Java,Gradle,IDEA,经验交流]
 author: rohanchandra
-feature-img: "assets/img/java/etalogo.png"
+feature-img: "assets/img/java/etalogo.jpg"
 ---
 
 ---
@@ -39,4 +39,4 @@ feature-img: "assets/img/java/etalogo.png"
 这里以我汉化的自然之神的像素地牢为例子！！！
 自然之神的源码的原始样子：
 
-{% include aligner.html images="java/deior.png" %}
+{% include aligner.html images="java/deior.jpg" %}
