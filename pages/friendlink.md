@@ -4,7 +4,7 @@ title: 友链
 permalink: /friendlink/
 tags: [友情链接]
 ---
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=0 height=0 src="//music.163.com/playlist?id=7441075371&userid=1433842003&auto=1&height=430"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=0 height=0 src="//music.163.com/outchain/player?type=0&id=7441075371&auto=1&height=430"></iframe>
 
 ---
 ### Cold Mint
