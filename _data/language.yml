@@ -1,6 +1,6 @@
 # Localization strings
-str_follow_on: "关注至"
-str_rss_follow: "关注至 RSS 脸书"
+str_follow_on: "跳转至"
+str_rss_follow: "跳转至 RSS 脸书"
 str_share_on: "分享至"
 str_add_to: "添加至"
 str_email: "邮箱"
@@ -14,6 +14,6 @@ str_javascript_required_disqus: "请启用 JavaScript 以查看评论。"
 str_no_result_found: "我们已经掘地三尺，但仍然无获而归"
 str_cookie_approve: "批准"
 str_cookie_disclaimer: "我们想用第三方的cookies和脚本，以改善本网站的功能。"
-str_months: [January, February, March, April, May, June, July, August, September, October, November, December]
+str_months: [1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月]
 
 # Localization settings 
