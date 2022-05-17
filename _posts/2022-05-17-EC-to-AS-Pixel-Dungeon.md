@@ -40,6 +40,60 @@ feature-img: "assets/img/pexels/computer.jpeg"
 上面的项目结构Android Studio是无法直接识别的，我们要改为AS识别的样子，如下图所示：
 <img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-3.jpg">
 
+首先，从上面的几张截图中，我们不难看出 AS 结构下的目录更加简洁，且效率更
+高。那么，要迁移 Eclipse 项目首先保证你工程的根目录有四个文件。
+即：<font color="#ffff00">build.gradle, gradlew, 和 settings.gradle, gradlew.bat!!!</font> 另外在<font color="#ffff00">app文件夹</font>也有一个<font color="#ffff00">build.gradle</font>
 
+| List(全部文件列表) |          需求文件
+|-|-  
+| Root-File(根目录文件) | build.gradle gradlew settings.gradle gradlew.bat
+| App-File(app目录文件) | build.gradle
+
+
+其中App文件下的/build.gradle为极其重要文件，其代码如下：
+~~~gradle
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+    //TODO 这里设置为你自己拥有的SDK版本
+    buildToolsVersion "30.0.2"
+    //TODO 这里设置为你自己拥有的Tool版本
+
+    defaultConfig {
+        applicationId "com.avmoga.dpixel.ling"
+        //TODO 设置为自己的新包名
+        minSdkVersion 14
+        //TODO 最小SDK版本
+        targetSdkVersion 29
+        //TODO 目标SDK版本
+    }
+
+    allprojects {
+        repositories {
+            maven { url 'https://jitpack.io' }
+            //TODO maven库导入
+        }
+    }
+
+    buildTypes {
+        //TODO 保持默认 不要修改
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    //TODO UCE-Handler崩溃采集器(需要Jcenter前置支持)
+    dependencies {
+        implementation 'com.github.RohitSurwase.UCE-Handler:uce_handler:1.4'
+    }
+}
+~~~
+
+当然，有了这 4 个只是一个开始。接下来，我们需要迁移游戏核心代码！
+下方的截图是自然之神的原始源代码：
+<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-4.jpg">
+从上方的截图，我们不难看出，Eclipse 地牢项目的主目录在 src 文件夹里面，如下图所示：
+<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-5.jpg">
 
 ---
