@@ -34,5 +34,12 @@ feature-img: "assets/img/pexels/computer.jpeg"
 这里以我汉化的自然之神的像素地牢为例子！！！  
 自然之神的源码的原始样子:  
 <img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior.jpg">
+<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-2.jpg">
+
+---
+上面的项目结构Android Studio是无法直接识别的，我们要改为AS识别的样子，如下图所示：
+<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-3.jpg">
+
+
 
 ---
