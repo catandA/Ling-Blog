@@ -49,10 +49,10 @@ Top-2 困难发芽的像素地牢 汉化正进行 [仓库地址](https://github.
 
 我的联系方式：  
 Discord:JDSA Ling#3793  
-Mail: CutelinXXX@126.com  
-QQ:2735951230  
-Reddit:[Ling ASDJ](https://www.reddit.com/user/LingASDJ/)  
-Twitter:Mr Ling SR
+Mail: [CutelinXXX@126.com](mailto:CutelinXXX@126.com)  
+Reddit: [Ling ASDJ](https://www.reddit.com/user/LingASDJ/)  
+Twitter: [Mr Ling SR](https://twitter.com/@JtN4328daPQKllf)  
+QQ: 2735951230
 
 ---
  
