@@ -7,7 +7,8 @@ tags: [关于JDSALing]
 color: rgb(42,162,162)
 ---
 
-### 站点建于2022-5-17号(Power By Jekyll To Tos Theme)
+# 站点建于2022-5-17号 
+## (Power By Jekyll With Tos Theme)
 
 ![LingASDJ github stats](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)
 
