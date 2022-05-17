@@ -3,6 +3,7 @@ layout: page
 title: 友链
 permalink: /friendlink/
 tags: [友情链接]
+feature-img: "assets/img/pexels/computer.jpeg"
 ---
 ## BGM-RS2:
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=500 height=110 src="//music.163.com/outchain/player?type=0&id=6949245333&auto=1&height=90"></iframe>
