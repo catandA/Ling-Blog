@@ -33,5 +33,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 那么将 Eclipse 地牢项目转成 AS 项目，就必须想办法构建 Model。
 这里以我汉化的自然之神的像素地牢为例子！！！  
 自然之神的源码的原始样子:  
-{% include aligner.html images="java/deior.jpg,java/deior-2.jpg" column=3 %}
+{% include aligner.html images="java/deior.jpg" %}
+{% include aligner.html images="java/deior-2.jpg" %}
+
 ---
