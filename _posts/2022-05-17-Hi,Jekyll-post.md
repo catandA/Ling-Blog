@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 新博客已建立,Hello,Jekyll!
-tags: [Java,C,Gradle]
+tags: [Jekyll,Github Page,Blog]
 author: rohanchandra
 ---
 
