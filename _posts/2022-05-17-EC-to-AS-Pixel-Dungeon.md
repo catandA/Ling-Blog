@@ -3,7 +3,8 @@ layout: post
 title: 迁移Eclipse到Android Stuido的地牢项目教程
 tags: [Java,Gradle,IDEA,经验交流]
 author: rohanchandra
-feature-img: "assets/img/thumbnails/feature-img/desk-messy.jpeg"
+feature-img: "assets/img/pexels/computer.jpeg"
+color: rgb(255, 255, 0)
 ---
 
 ---
