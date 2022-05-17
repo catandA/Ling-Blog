@@ -4,6 +4,9 @@ title: 友链
 permalink: /friendlink/
 tags: [友情链接]
 ---
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=0 height=0 src="//music.163.com/playlist?id=7441075371&userid=1433842003&auto=1&height=430"></iframe>
+
+---
 ### Cold Mint
 Cold Mint--[**[铁锈助手2.0]**](https://www.coolapk.com/apk/com.coldmint.rust.pro)
 
