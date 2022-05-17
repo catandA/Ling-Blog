@@ -4,6 +4,8 @@ title: 友链
 permalink: /friendlink/
 tags: [友情链接]
 ---
+### Cold Mint
+Cold Mint--[**[铁锈助手2.0]**](https://www.coolapk.com/apk/com.coldmint.rust.pro)
 
 ---
 ### Tmaize
@@ -19,7 +21,6 @@ Tmaize的Blog--[**[Tmaize-Blog]**](https://blog.tmaize.net/)
 {% include aligner.html images="feature-img/PTR3.png" %}
 ### Prohonor
 Prohonor--[**[Progressive Tune]**](https://progressive-tune.github.io/ptr/)  
-{% include aligner.html images="feature-img/ptr1.png,feature-img/ptr2.png" %}
 
 ---
 ### Steveubuntu
