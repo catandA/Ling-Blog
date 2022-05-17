@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Markup: Syntax Highlighting"
-author: mmistakes
+author: rohanchandra
 tags: [Highlight, Markdown]
 ---
 
