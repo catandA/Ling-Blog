@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 维护日志
-permalink: /about/
+permalink: /changes/
 tags: [ChangesLogs,Blog,Jekyll]
 ---
 
