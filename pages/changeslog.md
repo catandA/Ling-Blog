@@ -18,11 +18,10 @@ tags: [ChangesLogs,Blog,Jekyll]
 3.加载图像压缩优化,<font color="#ff00ff">SCSS</font>布局优化调整
 
 ---
- <div class="ui inverted section divider"></div>
-            <p>
-                <span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
-            </p>
-            </div>
+  
+ <div >           
+<span id="timeDate">载入天数...</span><sid="times">载入时分秒...</span>          
+ </div>
 <script>
     var now = new Date();
 
