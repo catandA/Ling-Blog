@@ -2,8 +2,8 @@
 layout: page
 title: 关于Ling
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
-tags: [关于JDSALing]
+feature-img: "assets/img/header/triangular-medium.jpeg"
+tags: [关于Ling]
 color: rgb(42,162,162)
 ---
 
