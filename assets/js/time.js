@@ -20,10 +20,6 @@ function siteTime() {
   var diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * days) / hours);
   var diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours) / minutes);
   var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours - diffMinutes * minutes) / seconds);
-  document.getElementById("sitetime").innerHTML = "绫中之书已诞生了" + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒";
+  document.getElementById("sitetime").innerHTML = "绫中之书已经诞生了" + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒";
 }
 siteTime();
-/*
-版权声明：本文为CSDN博主「中南自动化学院“智能控制与优化决策“至渝」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/qq_43657442/article/details/122268419
-*/
