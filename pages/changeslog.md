@@ -19,13 +19,25 @@ tags: [ChangesLogs,Blog,Jekyll]
 
 ---
 
-<p style="text-align:center;padding-top:5px;">绫中之书已在这个世界运行：<span id="days">0</span>天
-</p>
+<div>
+<h3><span id="span_dt_dt">正在读取中……</span></h3>
+</div>
 <script>
-	var s1 = '2022-05-17'
-	s1 = new Date(s1.replace(/-/g, "/"));
-	s2 = new Date();
-	var days = s2.getTime() - s1.getTime();
-	var number_of_days = parseInt(days / (1000 * 60 * 60 * 24));
-	document.getElementById('days').innerHTML = number_of_days;
-</script>
+	/*建站时间*/
+	function show_date_time() {
+	window.setTimeout("show_date_tim1e3);
+	var BirthDay = new Date("2020/05/18"),
+	today = new Date,
+	timeold = today.getTime() - BirgetTime(),
+	msPerDay = 864e5,
+	e_daysold = timeold / msPerDay,
+	daysold = Math.floor(e_daysold),
+	e_hrsold = 24 * (e_daysold - daysold),
+	hrsold = Math.floor(e_hrsold),
+	e_minsold = 60 * (e_hrsold - hrsold),
+	minsold = Math.floor(60 * (e_hrshrsold)),
+	seconds = Math.floor(60 * (e_minsminsold));
+	span_dt_dt.innerHTML = "绫中之书已在这个世界上存在了" + daysold+ hrsold + "小时" + minsold + seconds + "秒";
+	}
+	show_date_time();
+	</script>
