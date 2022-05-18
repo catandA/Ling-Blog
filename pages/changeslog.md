@@ -18,36 +18,27 @@ tags: [ChangesLogs,Blog,Jekyll]
 3.加载图像压缩优化,<font color="#ff00ff">SCSS</font>布局优化调整
 
 ---
-
- <div class="ui inverted section divider">
-<span id="timeDate">载入天数...</span><sid="times">载入时分秒...</span>
+<div>
+<p style="text-align:center;padding-top:5px;">Loading……:<span id="days">0</span>天
+</p>
 </div>
 <script>
-    var now = new Date();
-
-    function createtime() {
-        var grt = new Date("18/05/2022 00:00:00");
-        now.setTime(now.getTime() + 250);
-        days = (now - grt) / 1000 / 60 / 60 / 24;
-        dnum = Math.floor(days);
-        hours = (now - grt) / 1000 / 60 / 60 - (24 * dnum);
-        hnum = Math.floor(hours);
-        if (String(hnum).length == 1) {
-            hnum = "0" + hnum;
-        }
-        minutes = (now - grt) / 1000 / 60 - (24 * 60 * dnum) - (60 * hnum);
-        mnum = Math.floor(minutes);
-        if (String(mnum).length == 1) {
-            mnum = "0" + mnum;
-        }
-        seconds = (now - grt) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
-        snum = Math.round(seconds);
-        if (String(snum).length == 1) {
-            snum = "0" + snum;
-        }
-        document.getElementById("timeDate").innerHTML = "本Blog已经运行了 " + dnum + " 天 ";
-        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒";
-    }
-
-    setInterval("createtime()", 500);
+var s1 = '2022-05-17';//设置为你的建站时间
+s1 = new Date(s1.replace(/-/g, "/"));
+s2 = new Date();
+var days = s2.getTime() - s1.getTime();
+days =parseInt( days / (1000 * 60 * 60 * 24));
+var number_of_years = parseInt(days/365);
+days%=365;
+var number_of_months = parseInt(days/30);
+days%=30;
+var number_of_days = parseInt(days);
+var timeHTML="绫中之书已经安静的运行了";
+if(number_of_years)
+    timeHTML+=number_of_years+"年";
+if(number_of_months)
+    timeHTML+=number_of_months+"月";
+if(number_of_days)
+    timeHTML+=number_of_days+"天。";
+document.getElementById('times').innerHTML = timeHTML;
 </script>
