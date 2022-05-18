@@ -13,7 +13,25 @@ header_text: JDSALing-[Book]-Blog  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">TOS Theme</a><br>2022-©JDSALing-All right Reserved<br><p style="text-align:center;padding-top:5px;">绫中之书已在这个世界运行：<span id="days">0</span>天</p><script>var s1 = '2022-05-17's1 = new Date(s1.replace(/-/g, "/"));s2 = new Date();var days = s2.getTime() - s1.getTime();var number_of_days = parseInt(days / (1000 * 60 * 60 * 24));document.getElementById('days').innerHTML = number_of_days;</script>
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">TOS Theme</a><br>2022-©JDSALing-All right Reserved<br><p style="text-align:center;padding-top:5px;">绫中之书已在这个世界运行：<span id="days">0</span>天</p><script>var s1 = '2022-05-18';
+s1 = new Date(s1.replace(/-/g, "/"));
+s2 = new Date();
+var days = s2.getTime() - s1.getTime();
+days =parseInt( days / (1000 * 60 * 60 * 24));
+var number_of_years = parseInt(days/365);
+days%=365;
+var number_of_months = parseInt(days/30);
+days%=30;
+var number_of_days = parseInt(days);
+var timeHTML="本站安静的运行了";
+if(number_of_years)
+    timeHTML+=number_of_years+"年";
+if(number_of_months)
+    timeHTML+=number_of_months+"月";
+if(number_of_days)
+    timeHTML+=number_of_days+"天。";
+document.getElementById('times').innerHTML = timeHTML;
+</script>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
