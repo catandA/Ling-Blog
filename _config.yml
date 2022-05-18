@@ -13,7 +13,7 @@ header_text: JDSALing-[Book]-Blog  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">TOS Theme</a><br>2022-©JDSALing-All right Reserved<br><span id="sitetime" style="color: var(--meta);"></span><script type='text/javascript' src='https://lingasdj.github.io/Ling-Blog/assets/js/time.js'></script>
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type-on-Strap</a><br>2022-©JDSALing-All right Reserved<br><span id="sitetime" style="color: var(--meta);"></span><script type='text/javascript' src='https://lingasdj.github.io/Ling-Blog/assets/js/time.js'></script>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
