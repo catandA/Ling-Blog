@@ -18,27 +18,14 @@ tags: [ChangesLogs,Blog,Jekyll]
 3.加载图像压缩优化,<font color="#ff00ff">SCSS</font>布局优化调整
 
 ---
-<div>
-<p style="text-align:center;padding-top:5px;">Loading……:<span id="days">0</span>天
+
+<p style="text-align:center;padding-top:5px;">绫中之书已在这个世界运行：<span id="days">0</span>天
 </p>
-</div>
 <script>
-var s1 = '2022-05-17';//设置为你的建站时间
-s1 = new Date(s1.replace(/-/g, "/"));
-s2 = new Date();
-var days = s2.getTime() - s1.getTime();
-days =parseInt( days / (1000 * 60 * 60 * 24));
-var number_of_years = parseInt(days/365);
-days%=365;
-var number_of_months = parseInt(days/30);
-days%=30;
-var number_of_days = parseInt(days);
-var timeHTML="绫中之书已经安静的运行了";
-if(number_of_years)
-    timeHTML+=number_of_years+"年";
-if(number_of_months)
-    timeHTML+=number_of_months+"月";
-if(number_of_days)
-    timeHTML+=number_of_days+"天。";
-document.getElementById('times').innerHTML = timeHTML;
+	var s1 = '2022-05-17'
+	s1 = new Date(s1.replace(/-/g, "/"));
+	s2 = new Date();
+	var days = s2.getTime() - s1.getTime();
+	var number_of_days = parseInt(days / (1000 * 60 * 60 * 24));
+	document.getElementById('days').innerHTML = number_of_days;
 </script>
