@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于我
+title: 关于Ling
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [关于JDSALing]

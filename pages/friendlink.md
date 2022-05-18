@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 友链
+title: 友情链接
 permalink: /friendlink/
 tags: [友情链接]
 feature-img: "assets/img/pexels/computer.jpeg"
