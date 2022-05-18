@@ -9,9 +9,13 @@ color: rgb(42,162,162)
 
 ## 站点建于2022-5-17号 
 ### (Power By Jekyll With Tos Theme)
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-> ![](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)
+|我的Github的常用语言|我的Github的近期活动状态
+|-|-  
+|[![A](https://github-readme-stats.vercel.app/api/top-langs/?username=LingASDJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|![V](https://github-readme-stats.vercel.app/api/?username=LingASDJ&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000) 
+
+
+
 
 你好，陌生人或者朋友，很高兴你来到我的新Blog由于腾讯云备案等问题，原Blog已经弃用，现在使用Jekyll博客引擎进行部署，并使用**TOS-Theme主题**,博主网名叫<code>JDSA Ling</code>,是一个在读的大学生,主要在使用以下软件,这里以主体为Java代码表示：  
 
