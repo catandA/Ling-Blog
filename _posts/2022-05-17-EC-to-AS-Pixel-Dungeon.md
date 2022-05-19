@@ -52,7 +52,17 @@ feature-img: "assets/img/pexels/androidstuido.jpeg"
 | App-File(app目录) | build.gradle
 | Src-File(src目录) | AndroidManifest.xml
 
-其中App文件下的/build.gradle为极其重要文件，其代码如下：
+---
+当然，有了这 4 个只是一个开始。接下来，我们需要迁移游戏核心代码！
+下方的截图是自然之神的原始源代码：
+<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-4.jpg">
+从上方的截图，我们不难看出，Eclipse 地牢项目的主目录在 src 文件夹里面，如下图所示：
+<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-5.jpg">
+那么，接下来，我们需要将里面的代码进行迁移。
+在你迁移的项目的根目录里面新建一个<b><font color="#ffff00">app文件夹</font></b>，我们所有的东西都会在这里！
+
+打开“app”文件夹，在里面新建 src 文件夹，build.gradle 可以直接获取下面的！
+App 文件夹下的-build.gradle 内容:
 ~~~gradle
 apply plugin: 'com.android.application'
 
@@ -91,14 +101,64 @@ android {
     }
 }
 ~~~
+新建好 src 文件夹和上面的 build.gradle 后，现在就是迁移工程的时候了！
+打开 <font color="#ff000">src 文件夹</font>，并新建一个<font color="#ff000"> main 文件夹</font>！打开 <font color="#ff000">main 文件夹</font>，新建下面截图的所有文件
+夹。<font color="#ff000">AndroidManifest.xml</font> 若<font color="#ff000">原始源代码存在该文件</font>则直接拉过来，否则，请使用博客里面的！  
+<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/etafile.jpg">  
+三个文件夹和 AndroidManifest.xml 文件的对照关系为：
+<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/etalogo.jpg">  
+AndroidManifest.xml(参考):
+~~~xml
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.avmoga.dpixel"
+	android:versionCode="512"
+	android:versionName="0.1.7"
+	android:installLocation="auto">
+	xmlns:tools="http://schemas.android.com/tools"
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <!--package:设置你的包名-->
+    <!--android:versionCode="512" 
+    安卓版本代码 高版本代码不能覆盖低版本代码
+    （不能降级安装,除非有Root权限)-->
+    <!--android:versionName="0.1.7" 安卓版本号 安装的时候显示的版本号-->
+	<uses-sdk
+	    android:minSdkVersion="8"
+	    android:targetSdkVersion="8"/>
+    <!--SDK配置-->
+	<uses-feature
+	    android:glEsVersion="0x00020000"/>
 
-当然，有了这 4 个只是一个开始。接下来，我们需要迁移游戏核心代码！
-下方的截图是自然之神的原始源代码：
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-4.jpg">
-从上方的截图，我们不难看出，Eclipse 地牢项目的主目录在 src 文件夹里面，如下图所示：
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-5.jpg">
-那么，接下来，我们需要将里面的代码进行迁移。
-在你迁移的项目的根目录里面新建一个<font color="#ffff00">**app**文件夹</font>，我们所有的东西都会在这里！
+	<supports-screens
+	    android:smallScreens="false"
+	    android:normalScreens="true"
+	    android:largeScreens="true"/>
+	    <!--android:xlargeScreens="true"-->
 
-### 尚未完成
+	<application
+		android:icon="@drawable/ic_launcher"
+		android:label="@string/app_name"
+		android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
+		android:allowBackup="false" android:isGame="true">
+		<activity
+			android:label="@string/app_name"
+             <!--App名称，自动同步，无需修改-->
+			android:name="com.avmoga.dpixel.ShatteredPixelDungeon"
+            <!--如果上面报红，那么请改为对应的启动类-->
+			android:screenOrientation="portrait">
+			<intent-filter >
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+	android:debuggable="true"
+		tools:replace="android:icon, android:theme">
+	</application>
+
+
+</manifest>
+~~~
+做到这一步后，恭喜你，老旧的地牢 ADT 项目已经成功转换为 AS 项目！
+Gradle 的话, Android Stuido 自己知道配置，你无需添加 gradle 文件夹！！！
+
 ---
