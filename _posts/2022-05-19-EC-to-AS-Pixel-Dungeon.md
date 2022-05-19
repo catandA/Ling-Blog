@@ -529,6 +529,7 @@ Actively！也可能是其他问题！无论如何，请尽量不要删除 UCE_H
 [Manifest merger failed with multiple errors 最终极的解决方式](https://blog.csdn.net/zjuter/article/details/102716520)  
 [AndroidStudio 导入 v4、v7、v14、v17 包](https://blog.csdn.net/weixin_44021334/article/details/107206224)
 
-By JDSA Ling-Ling Book Blog
-#### 声明：若要转载，请注明出处！！！
+#### By JDSA Ling-Ling Book Blog
+---
+### 声明：若要转载此文章，请注明出处，非常感谢
 ---
