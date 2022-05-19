@@ -514,6 +514,7 @@ Actively！也可能是其他问题！无论如何，请尽量不要删除 UCE_H
 溃抓取器。里面的详细日志会为你带来便利！  
 解决方法：在 AndroidManifest.xml 修正 onCreate 第一启动项或者根据错误日志进行修复。
 
+---
 ### 三、 其他说明
 完成了上述操作后，你应该可以获得一个正常运行的 apk 包！
 至此，Eclipse 迁移成 AndroidStuido 就完成了。
@@ -523,10 +524,11 @@ Actively！也可能是其他问题！无论如何，请尽量不要删除 UCE_H
 因为在这之后破碎使用了 LibGdx！！！所以还需要这个库，但这是没必要的！
 愿这篇文章能给你带来帮助，感谢你的阅读
 
+---
 ### 参考资料
-Manifest merger failed with multiple errors 最终极的解决方式：
-https://blog.csdn.net/zjuter/article/details/102716520
-AndroidStudio 导入 v4、v7、v14、v17 包：
-https://blog.csdn.net/weixin_44021334/article/details/107206224
+[Manifest merger failed with multiple errors 最终极的解决方式](https://blog.csdn.net/zjuter/article/details/102716520)  
+[AndroidStudio 导入 v4、v7、v14、v17 包](https://blog.csdn.net/weixin_44021334/article/details/107206224)
 
+By JDSA Ling-Ling Book Blog
+#### 声明：若要转载，请注明出处！！！
 ---
