@@ -11,16 +11,16 @@ feature-img: "assets/img/pexels/androidstuido.jpeg"
 
 ### 准备工作:
 
-| Ready Work |          需要的东西
-|-|-  
-|软件方面   | Android Studio
-| 文件方面   | 非Gradle的地牢项目
-| 脑子方面   | 能灵活的消化本文章的知识
-| Need Files | 主要的文件 
-| 第1个文件   | build.gradle
-| 第2个文件   | gradlew
-| 第3个文件   | settings.gradle
-| 第4个文件   | gradlew.bat
+| Ready Work |  需要的东西| Need Files | 主要的文件 
+|-|-|-|- 
+|软件方面   | Android Studio| 第1个文件   | build.gradle
+| 文件方面   | 非Gradle的地牢项目| 第2个文件   | gradlew
+| 脑子方面   | 灵活思考，举一反三| 第3个文件   | settings.gradle
+| 电脑方面|电脑尽量不要太卡 | 第4个文件   | gradlew.bat
+
+
+
+
 
 ---
 ### 概要说明:
