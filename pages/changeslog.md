@@ -3,7 +3,7 @@ layout: page
 title: 维护日志
 permalink: /changes/
 tags: [ChangesLogs,Blog,Jekyll]
-feature-img: "assets/img/pexels/book-glass.jpeg"
+feature-img: "assets/img/pexels/computer.jpeg"
 ---
 
 ---
