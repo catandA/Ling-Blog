@@ -6,10 +6,17 @@ tags: [ChangesLogs,Blog,Jekyll]
 feature-img: "assets/img/pexels/computer.jpeg"
 ---
 
+#### 2022-5-20——(博客维护日志-类型:优化)
+1.更新了新博客(类型:纪念画廊):
+#### [危机合约#9--渊默行动纪念大合照(点击进入)](https://lingasdj.github.io/Ling-Blog/2022/05/20/wr-9-ps.html)
+<img src="https://lingasdj.github.io/Ling-Blog/assets/img/ark/wrnskz.jpg">
+2.调整了部分字体和代码高亮渲染方式
+
 ---
 #### 2022-5-19——(博客维护日志-类型:更新)
+<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/etalogo.jpg"> 
 1.更新了新博客:  
-#### [迁移Eclipse到Android Stuido的地牢项目教程](https://lingasdj.github.io/Ling-Blog/2022/05/19/EC-to-AS-Pixel-Dungeon.html)
+#### [迁移Eclipse到Android Stuido的地牢项目教程](https://lingasdj.github.io/Ling-Blog/2022/05/19/EC-to-AS-Pixel-Dungeon.html) 
 2.其他界面优化
 
 ---
