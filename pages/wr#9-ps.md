@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 危机合约#9-渊默行动
-subtitle: 我和朋友们的危机合约等级18画廊展览
+subtitle: 我和朋友们的危机合约#9--画廊展览
 permalink: /warningnine/
 gallery_path: "assets/img/warning/nine"
 feature-img: "assets/img/ark/wrnskz.jpg"
