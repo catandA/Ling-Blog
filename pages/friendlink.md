@@ -18,7 +18,7 @@ Cold Mint--[**[铁锈助手2.0]**](https://www.coolapk.com/apk/com.coldmint.rust
 
 ---
 ### Mason
-Mason的Blog--[**[Tmaize-Blog]**](https://mason369.github.io/Mason_blog/)
+Mason的Blog--[**[Mason-Blog]**](https://mason369.github.io/Mason_blog/)
 
 ---
 ### Tianscar
