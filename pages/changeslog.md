@@ -6,6 +6,11 @@ tags: [ChangesLogs,Blog,Jekyll]
 feature-img: "assets/img/pexels/computer.jpeg"
 ---
 
+#### 2022-5-22——(博客维护日志-类型:更新)
+* 更新了新的友情链接
+
+---
+
 #### 2022-5-20——(博客维护日志-类型:优化)
 1.更新了新博客(类型:纪念画廊):
 #### [危机合约#9--渊默行动纪念大合照(点击进入)](https://lingasdj.github.io/Ling-Blog/2022/05/20/wr-9-ps.html)
