@@ -8,7 +8,7 @@ thumbnail: "assets/img/pexels/nonameyet.png"
 ---
 
 ---
-撰写于2022年5月19日--建议阅读时间：8分钟
+撰写于2022年6月13日--建议阅读时间：8分钟
 
 ### 概要说明:
 众所周知，由于<font color="#ff0000">Watabou(原版地牢作者)</font>和<font color="#ff0000">仓鼠(另类地牢作者)</font>的多语言系统一个没做，一个懒得做。（指指点点）  
