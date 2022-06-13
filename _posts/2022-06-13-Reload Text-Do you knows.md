@@ -59,7 +59,7 @@ public static void reload() {
 		}
 	}
 
-/* RenderedText.java */
+/* Game.java */
 @Override
 public void onSurfaceCreated( GL10 gl, EGLConfig config ) {
 		GLES20.glEnable( GL10.GL_BLEND );
