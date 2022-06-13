@@ -8,7 +8,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 #### 2022-6-13——(博客维护日志-类型:更新)
 * 更新了新博客(类型:地牢编码经验交流):
-#### [非破碎文本系统，汉化地牢后文字切屏错乱的解决方案(点击进入)](https://lingasdj.github.io/Ling-Blog/2022/05/20/wr-9-ps.html)
+#### [非破碎文本系统，汉化地牢后文字切屏错乱的解决方案(点击进入)](https://lingasdj.github.io/Ling-Blog/2022/06/13/Reload-Text-Do-you-knows.html)
 
 #### 2022-5-22——(博客维护日志-类型:更新)
 * 更新了新的友情链接
