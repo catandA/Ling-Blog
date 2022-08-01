@@ -28,6 +28,8 @@ thumbnail: "assets/img/pexels/terraria.jpg"
 ```C#
 int num101 =(num9 ==1)?num11 : num10;
 ```
+
+---
 2.<b><font color="#ffFF00">查找所有引用快捷键:</font></b>Ctrl+K 或 R 或 右键点击对应函数或方法选择<b><font color="#ffff00">查找所有引用</font></b>  
 Tops:  
 <b><font color="#00fffff">非常重要的一个功能，能迅速查到此方法的所有引用区域,在实际操作中的用途非常频繁。</font></b>
@@ -37,7 +39,7 @@ Top1:
 1.先调用GlobalItem里面的数据，再调用每一个物品的单独数据  
 2.继续查找所有引用，发现Player和ItemLoader的设置。  
 其优先级顺序如下表所示：  
-|优先级 | 代码  |依赖性
+|优先级 |代码  |依赖性
 |-|-|-  
 |High| Player|如果ModPlayer=False
 |Low|ItemLoader|则ItemLoader也没有办法Shoot
@@ -68,7 +70,7 @@ this.SetDefaults2 (this.type);
 }
 ……………………
 ```
-
+---
 此类别的其他笔记：  
 1.查找当前--<font color="#ffff00">只查询被打开的文档</font>(先决条件：当前文档)  
 2.查找全部--<font color="#ffff00">查找此项目的全部东西</font>(先决条件：当前文档)  
@@ -119,6 +121,7 @@ return;
 }
 ```
 
+---
 重要提示:  
 1.局部变量由于反编译生成的代码并不规范，你可以使用重命名方法进行修改。以方便后续参考源代码能更好的去理解此代码的用法。  
 2.写代码最好带上注释，避免以后自己忘掉这里是干什么的。  
