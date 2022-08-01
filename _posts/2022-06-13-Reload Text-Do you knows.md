@@ -2,7 +2,7 @@
 layout: post
 title: 非破碎文本系统，汉化地牢后文字切屏错乱的解决方案
 tags: [Java,Gradle,IDEA,经验交流,地牢汉化]
-author: rohanchandra
+author: jdsaling
 feature-img: "assets/img/pexels/nonameyet.png"
 thumbnail: "assets/img/pexels/nonameyet.png"
 ---

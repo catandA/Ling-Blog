@@ -2,7 +2,7 @@
 layout: post
 title: 迁移Eclipse到Android Stuido的地牢项目教程
 tags: [Java,Gradle,IDEA,经验交流]
-author: rohanchandra
+author: jdsaling
 feature-img: "assets/img/pexels/androidstuido.jpeg"
 thumbnail: "assets/img/pexels/computer.jpeg"
 ---

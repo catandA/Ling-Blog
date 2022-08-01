@@ -2,7 +2,7 @@
 layout: post
 title: 新博客已建立,Hello,Jekyll!
 tags: [Jekyll,Github Page,Blog]
-author: rohanchandra
+author: jdsaling
 ---
 
 ~~~
