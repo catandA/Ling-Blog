@@ -45,9 +45,9 @@ Top1:
 |优先级|代码|依赖性
 |-|-|-    
 | High| Player| 如果ModPlayer=False 
-| Low| ItemLoader| 则ItemLoader也没有办法Shoot
-| 源区域| 类型| -暂无说明
-| ItemCheck| Int| -暂无说明
+| Low  | ItemLoader| 则ItemLoader也没有办法Shoot
+| 源区域| 类型| 暂无说明
+| ItemCheck| Int| 暂无说明
 
 ---
 Top2:<font color="#ffff00">GlobalItem - Item[相关说明]</font>  
@@ -110,7 +110,7 @@ P.S.:定位可能不准，如有偏差还请见谅</font>
 
 ---
 
-|代码序列|用途分析|
+|代码序列|用途分析|  
 |-|-  
 |scaleStats()|专家模式增加怪物血量
 |VanillaFindFrame(int num)|贴图动画帧的切换代码
