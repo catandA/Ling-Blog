@@ -15,7 +15,7 @@ thumbnail: "assets/img/pexels/computer.jpeg"
 
 重要提示：  
 在阅读本篇文章之前你应该优先掌握裙子博客的前置教程：  
-### 传送门：<a href="https://fs49.org/">裙中世界</a>
+### 传送门：<a href="https://fs49.org/"  target="_blank">裙中世界</a>
 
 ## TML源码阅读技巧教程源视频(来自裙子的哔哩哔哩):
 <iframe src="//player.bilibili.com/player.html?aid=291283827&bvid=BV1kf4y1t78C&cid=360208452&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" height=420 width='100%' frameborder="no" allowfullscreen="true"> </iframe>
