@@ -20,7 +20,7 @@ thumbnail: "assets/img/pexels/computer.jpeg"
 ## TML源码阅读技巧教程源视频(来自裙子的哔哩哔哩):
 <iframe src="//player.bilibili.com/player.html?aid=291283827&bvid=BV1kf4y1t78C&cid=360208452&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" height=420 width='100%' frameborder="no" allowfullscreen="true"> </iframe>
 
-### 视频高清传送门：<a href="https://www.bilibili.com/video/BV1kf4y1t78C">TML源码阅读技巧教程源视频</a>
+### 视频高清传送门：<a href="https://www.bilibili.com/video/BV1kf4y1t78C" target="_blank">TML源码阅读技巧教程源视频</a>
 
 ### 以下是笔记区域
 ---
