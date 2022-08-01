@@ -41,8 +41,9 @@ Top1:
 其优先级顺序如下表所示：  
 
 ---
+
 |优先级|代码|依赖性
-|-|-|-  
+|-|-|-    
 | High| Player| 如果ModPlayer=False 
 | Low| ItemLoader| 则ItemLoader也没有办法Shoot
 | 源区域| 类型| -暂无说明
@@ -108,6 +109,7 @@ Top5--分析源代码NPC的AI代码
 P.S.:定位可能不准，如有偏差还请见谅</font>
 
 ---
+
 |代码序列|用途分析|
 |-|-  
 |scaleStats()|专家模式增加怪物血量
