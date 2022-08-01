@@ -3,8 +3,8 @@ layout: post
 title: 泰拉瑞亚模组学习笔记-#0
 tags: ["C#",学习笔记,Terraria]
 author: jdsaling
-feature-img: "assets/img/pexels/nonameyet.png"
-thumbnail: "assets/img/pexels/nonameyet.png"
+feature-img: "assets/img/pexels/terraria.jpg"
+thumbnail: "assets/img/pexels/terraria.jpg"
 ---
 
 ---
