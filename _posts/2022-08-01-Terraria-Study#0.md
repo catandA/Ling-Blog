@@ -86,7 +86,7 @@ this.SetDefaults2 (this.type);
 ### Top3--丛林蜥蜴祭坛召唤原理  
 1.查询<font color="#ffff00">丛林蜥蜴电池</font>的ID，通过<font color="#ffff00">ItemID.cs</font>查询，或者在Wiki上面查询(ID:1293)  
 2.<font color="#ffff00">ModItem的UseItem函数</font>也同样重要，需要根据实际情况进行查找。总而言之，找<font color="#ffff00">ID为“1293”</font>即可。  
-<font color="#ffff00">具体请观看上方裙子的视频！  
+<font color="#ffff00">具体请观看上方裙子的视频！ <br> 
 时间位置：19:37--23:00 ModItem<br>时间位置：24:00--25:00 ModTile<br>P.S.:定位可能不准，如有偏差还请见谅</font>
 
 此类别的其他笔记：  
@@ -105,7 +105,7 @@ P.S.:定位可能不准，如有偏差还请见谅</font>
 
 ---
 ### Top5--分析源代码NPC的AI代码  
-<font color="#ffff00">具体请观看上方裙子的视频！  
+<font color="#ffff00">具体请观看上方裙子的视频！<br>  
 时间位置：45:00--65:00 NPC-AI<br>
 <font color="#00ff00">在Top5和Top4之间还有裙子为直播间朋友分析【PickUp】和exmod的一些东西。有关详情说明，请自行观看视频。</font><br>
 P.S.:定位可能不准，如有偏差还请见谅</font>
