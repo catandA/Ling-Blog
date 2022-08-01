@@ -4,7 +4,7 @@ title: 泰拉瑞亚模组学习笔记-#0
 tags: ["C#",学习笔记,Terraria]
 author: jdsaling
 feature-img: "assets/img/pexels/terraria.jpg"
-thumbnail: "assets/img/pexels/terraria.jpg"
+thumbnail: "assets/img/pexels/computer.jpeg"
 ---
 
 ---
@@ -25,7 +25,7 @@ thumbnail: "assets/img/pexels/terraria.jpg"
 ## No.1——VS查看TML源码注意事项:
 1.VS默认是反编译源码生成，因此部分变量无法读取将会显示为不规范的命名。  
 例：
-```C#
+```cs
 int num101 =(num9 ==1)?num11 : num10;
 ```
 
@@ -39,19 +39,19 @@ Top1:
 1.先调用GlobalItem里面的数据，再调用每一个物品的单独数据  
 2.继续查找所有引用，发现Player和ItemLoader的设置。  
 其优先级顺序如下表所示：  
-|优先级 |代码  |依赖性
+|优先级|代码|依赖性  
 |-|-|-  
-|High| Player|如果ModPlayer=False
-|Low|ItemLoader|则ItemLoader也没有办法Shoot
-|源区域|类型|- 暂无说明
-|ItemCheck|Int|- 暂无说明
+|High|Player|如果ModPlayer=False  
+|Low|ItemLoader|则ItemLoader也没有办法Shoot  
+|源区域|类型|- 暂无说明  
+|ItemCheck|Int|- 暂无说明  
 
 ---
 Top2:<font color="#ffff00">GlobalItem - Item[相关说明]</font>  
 1.<b><font color="#00ffff">Hook Funcition 钩子函数</font></b>  
 2.转到<b><font color="#ffff00">Item.cs</font></b>  ,先确定ID范围，然后并<b><font color="#ffff00">查找所有引用</font></b>，  
 其示范代码如下：
-```C#  
+```cs  
 if (this.type == 0){
 this.netID = 0;
 this.stack = 0;
@@ -104,16 +104,17 @@ Top5--分析源代码NPC的AI代码
 时间位置：45:00--50:00 NPC-AI<br>
 <font color="#00ff00">在Top5和Top4之间还有裙子为直播间朋友分析【PickUp】和exmod的一些东西。有关详情说明，请自行观看视频。</font><br>
 P.S.:定位可能不准，如有偏差还请见谅</font>
-|代码序列|用途分析|
-|-|-
-|scaleStats()|专家模式增加怪物血量
-|VanillaFindFrame(int num)|贴图动画帧的切换代码
-|Main.expertMode|读取是否为专家模式代码
-|DropBossBags()|专家模式掉落宝藏袋的方法
-|VanillaHitEffect|怪物受到攻击的特效粒子效果
-|aiStyle|指定AI类型代码
-|VanillaAI()|原版AI类型代码组
-```C#
+|代码序列|用途分析|  
+|-|-  
+|scaleStats()|专家模式增加怪物血量  
+|VanillaFindFrame(int num)|贴图动画帧的切换代码  
+|Main.expertMode|读取是否为专家模式代码  
+|DropBossBags()|专家模式掉落宝藏袋的方法  
+|VanillaHitEffect|怪物受到攻击的特效粒子效果  
+|aiStyle|指定AI类型代码  
+|VanillaAI()|原版AI类型代码组  
+
+```cs
 //ai[0]是原版切换Boss形态的一个关键逻辑代码
 if (this.ai[0] >1f)I{
 this.frame.Y = this.frame.Y +num * 3;
@@ -125,10 +126,10 @@ return;
 重要提示:  
 1.局部变量由于反编译生成的代码并不规范，你可以使用重命名方法进行修改。以方便后续参考源代码能更好的去理解此代码的用法。  
 2.写代码最好带上注释，避免以后自己忘掉这里是干什么的。  
-3.要对原版的泰拉瑞亚源码进行维护调试，方便以后参考更加轻松
+3.要对原版的泰拉瑞亚源码进行维护调试，方便以后参考更加轻松  
 
 ## 本文总结：
 裙子的视频质量非常之高，我也看了两遍左右，这篇文章我整理了视频里面一些很关键的东西，或许综合裙子的视频应该会帮助到刚刚入坑TML以及有一些MOD基础的你。    
-希望这篇文章能帮助到需要帮助的人，感谢你的阅读。
+希望这篇文章能帮助到需要帮助的人，感谢你的阅读。   
 
 #### By JDSA Ling-Ling Book Blog
