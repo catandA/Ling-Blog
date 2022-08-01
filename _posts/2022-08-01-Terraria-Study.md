@@ -39,12 +39,14 @@ Top1:
 1.先调用GlobalItem里面的数据，再调用每一个物品的单独数据  
 2.继续查找所有引用，发现Player和ItemLoader的设置。  
 其优先级顺序如下表所示：  
-|优先级|代码|依赖性  
+
+---
+|优先级|代码|依赖性
 |-|-|-  
-|High|Player|如果ModPlayer=False  
-|Low|ItemLoader|则ItemLoader也没有办法Shoot  
-|源区域|类型|- 暂无说明  
-|ItemCheck|Int|- 暂无说明  
+| High| Player| 如果ModPlayer=False 
+| Low| ItemLoader| 则ItemLoader也没有办法Shoot
+| 源区域| 类型| -暂无说明
+| ItemCheck| Int| -暂无说明
 
 ---
 Top2:<font color="#ffff00">GlobalItem - Item[相关说明]</font>  
@@ -104,15 +106,17 @@ Top5--分析源代码NPC的AI代码
 时间位置：45:00--50:00 NPC-AI<br>
 <font color="#00ff00">在Top5和Top4之间还有裙子为直播间朋友分析【PickUp】和exmod的一些东西。有关详情说明，请自行观看视频。</font><br>
 P.S.:定位可能不准，如有偏差还请见谅</font>
-|代码序列|用途分析|  
+
+---
+|代码序列|用途分析|
 |-|-  
-|scaleStats()|专家模式增加怪物血量  
-|VanillaFindFrame(int num)|贴图动画帧的切换代码  
-|Main.expertMode|读取是否为专家模式代码  
-|DropBossBags()|专家模式掉落宝藏袋的方法  
-|VanillaHitEffect|怪物受到攻击的特效粒子效果  
-|aiStyle|指定AI类型代码  
-|VanillaAI()|原版AI类型代码组  
+|scaleStats()|专家模式增加怪物血量
+|VanillaFindFrame(int num)|贴图动画帧的切换代码
+|Main.expertMode|读取是否为专家模式代码
+|DropBossBags()|专家模式掉落宝藏袋的方法
+|VanillaHitEffect|怪物受到攻击的特效粒子效果
+|aiStyle|指定AI类型代码
+|VanillaAI()|原版AI类型代码组
 
 ```cs
 //ai[0]是原版切换Boss形态的一个关键逻辑代码
