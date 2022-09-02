@@ -34,7 +34,6 @@ Mason的Blog--[**[Mason-Blog]**](https://mason369.github.io/Mason_blog/)
 碳酸天剑的网址导航--[**[Tianscacr-SiteNav]**](https://sitenav.tianscar.com)
 
 ---
-{% include aligner.html images="feature-img/PTR3.png" %}
 ### Prohonor
 Prohonor--[**[Progressive Tune]**](https://progressive-tune.github.io/ptr/)  
 
