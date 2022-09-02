@@ -6,16 +6,9 @@ permalink: /links.html
 ---
 
 ---
-layout: page
-title: 友情链接
-permalink: /friendlink/
-tags: [友情链接]
-feature-img: "assets/img/pexels/computer.jpeg"
----
-## BGM-东方-Project:
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=500 height=150 src="//music.163.com/outchain/player?type=0&id=320880951&auto=1&height=430"></iframe>
+### Link
+Link的Blog--[**[Tmaize-Blog]**](https://atlinker.cn/)
 
----
 ### Tmaize
 Tmaize的Blog--[**[Tmaize-Blog]**](https://blog.tmaize.net/)
 
