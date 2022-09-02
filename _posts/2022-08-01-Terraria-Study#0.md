@@ -32,7 +32,7 @@ int num101 =(num9 ==1)?num11 : num10;
 ```
 
 ---
-2.<b><font color="#ffFF00">查找所有引用快捷键:</font></b>Ctrl+K 或 R 或 右键点击对应函数或方法选择<b><font color="#ffff00">查找所有引用</font></b>  
+2.<b><font color="#008688">查找所有引用快捷键:</font></b>Ctrl+K 或 R 或 右键点击对应函数或方法选择<b><font color="#008688">查找所有引用</font></b>  
 Tops:  
 <b><font color="#00fffff">非常重要的一个功能，能迅速查到此方法的所有引用区域,在实际操作中的用途非常频繁。</font></b>
 
@@ -52,9 +52,9 @@ Tops:
 | ItemCheck| Int| 暂无说明
 
 ---
-### Top2:<font color="#ffff00">GlobalItem - Item[相关说明]</font>  
+### Top2:<font color="#008688">GlobalItem - Item[相关说明]</font>  
 1.<b><font color="#00ffff">Hook Funcition 钩子函数</font></b>  
-2.转到<b><font color="#ffff00">Item.cs</font></b>  ,先确定ID范围，然后并<b><font color="#ffff00">查找所有引用</font></b>，  
+2.转到<b><font color="#008688">Item.cs</font></b>  ,先确定ID范围，然后并<b><font color="#008688">查找所有引用</font></b>，  
 其示范代码如下：
 ```cs  
 if (this.type == 0){
@@ -77,20 +77,20 @@ this.SetDefaults2 (this.type);
 ```
 ---
 此类别的其他笔记：  
-1.查找当前--<font color="#ffff00">只查询被打开的文档</font>(先决条件：当前文档)  
-2.查找全部--<font color="#ffff00">查找此项目的全部东西</font>(先决条件：当前文档)  
-3.读取 <font color="#ffff00">读取源代码数据或mod数据</font>  
-4.写入 <font color="#ffff00">new()创建一个或者clone数据</font>
+1.查找当前--<font color="#008688">只查询被打开的文档</font>(先决条件：当前文档)  
+2.查找全部--<font color="#008688">查找此项目的全部东西</font>(先决条件：当前文档)  
+3.读取 <font color="#008688">读取源代码数据或mod数据</font>  
+4.写入 <font color="#008688">new()创建一个或者clone数据</font>
 
 ---
 ### Top3--丛林蜥蜴祭坛召唤原理  
-1.查询<font color="#ffff00">丛林蜥蜴电池</font>的ID，通过<font color="#ffff00">ItemID.cs</font>查询，或者在Wiki上面查询(ID:1293)  
-2.<font color="#ffff00">ModItem的UseItem函数</font>也同样重要，需要根据实际情况进行查找。总而言之，找<font color="#ffff00">ID为“1293”</font>即可。  
-<font color="#ffff00">具体请观看上方裙子的视频！ <br> 
+1.查询<font color="#008688">丛林蜥蜴电池</font>的ID，通过<font color="#008688">ItemID.cs</font>查询，或者在Wiki上面查询(ID:1293)  
+2.<font color="#008688">ModItem的UseItem函数</font>也同样重要，需要根据实际情况进行查找。总而言之，找<font color="#008688">ID为“1293”</font>即可。  
+<font color="#008688">具体请观看上方裙子的视频！ <br> 
 时间位置：19:37--23:00 ModItem<br>时间位置：24:00--25:00 ModTile<br>P.S.:定位可能不准，如有偏差还请见谅</font>
 
 此类别的其他笔记：  
-1.<font color="#ffff00">转到定义</font>--查找局部变量的声明区域
+1.<font color="#008688">转到定义</font>--查找局部变量的声明区域
 
 ---
 ### Top4--原版鼠标绘制  
@@ -99,13 +99,13 @@ this.SetDefaults2 (this.type);
 函数区域：DoDraw[泰拉瑞亚最顶层的绘制函数]  
 提示：ModItem,ModPlayer,Main  
 重要：Override Cursor
-<font color="#ffff00">具体请观看上方裙子的视频！  
+<font color="#008688">具体请观看上方裙子的视频！  
 时间位置：32:00--40:00 CursorMouse  
 P.S.:定位可能不准，如有偏差还请见谅</font>
 
 ---
 ### Top5--分析源代码NPC的AI代码  
-<font color="#ffff00">具体请观看上方裙子的视频！<br>  
+<font color="#008688">具体请观看上方裙子的视频！<br>  
 时间位置：45:00--65:00 NPC-AI<br>
 <font color="#00ff00">在Top5和Top4之间还有裙子为直播间朋友分析【PickUp】和exmod的一些东西。有关详情说明，请自行观看视频。</font><br>
 P.S.:定位可能不准，如有偏差还请见谅</font>
