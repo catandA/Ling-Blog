@@ -7,7 +7,7 @@ permalink: /links.html
 
 ---
 ### Link
-Link的Blog--[**[Tmaize-Blog]**](https://atlinker.cn/)
+Link的Blog--[**[Link-Blog]**](https://atlinker.cn/)
 
 ### LiuLiu
 LiuLiu的Blog--[**[LiuLiu-Blog]**](https://liusxs.github.io/liuliu/)
