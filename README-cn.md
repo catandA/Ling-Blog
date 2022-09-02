@@ -7,7 +7,7 @@
 ><br>我们避免繁杂 使用轻量化的模块来渲染在您屏幕上展示出来的一切 
 ><br>当您使用过后就知道，她带给你的不仅仅只有简洁极速的阅读体验...
 
-语言：简体中文 | [English](README-en.md)
+语言：简体中文 | [English](https://jdsalingzx.top/README-en.html)
 
 ![hydrogen](/theme/logo-h.svg)
 

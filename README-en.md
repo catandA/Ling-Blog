@@ -3,7 +3,7 @@ Lightweight and clean
 
 Follow her footsteps and start your blog journey.
 
-语言：English | [Chinese](README.md)
+语言：English | [Chinese](https://jdsalingzx.top/README-cn.html)
 
 ![hydrogen](/theme/logo-h.svg)
 
