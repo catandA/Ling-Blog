@@ -9,12 +9,12 @@ author: jdsaling
 撰写于2022年5月17日--建议阅读时间：1分钟
 ~~~
 
-<font color="#ffff00">风筝死了，我将它埋葬在这里，谁知道呢，也许有一天你会找到它。——《偷影子的人》</font>
+<font color="#008688">风筝死了，我将它埋葬在这里，谁知道呢，也许有一天你会找到它。——《偷影子的人》</font>
 
 ## **Hello,Jekyll!!**
 在去年，博客以腾讯云和CloudFlare和WordPress进行部署。  
 由于上一个博客期限已近，且由于【**备案**】问题已经停摆。  
-在近期，我使用了更为先进的 <b>*Jekyll*</b> 博客底层引擎重新建立博客。并使用强大的<font color="#ffff00">GitHub Page</font>进行页面支持。
+在近期，我使用了更为先进的 <b>*Jekyll*</b> 博客底层引擎重新建立博客。并使用强大的<font color="#008688">GitHub Page</font>进行页面支持。
 
 ## **基于 Type-on-Strap主题模板**
 TOSLink: [Type-on-Strap](https://github.com/sylhare/Type-on-Strap)  

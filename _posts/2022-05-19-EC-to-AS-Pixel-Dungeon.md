@@ -46,7 +46,7 @@ stickie: true
 
 首先，从上面的几张截图中，我们不难看出 AS 结构下的目录更加简洁，且效率更
 高。那么，要迁移 Eclipse 项目首先保证你工程的根目录有四个文件。
-即：<font color="#ffff00">build.gradle, gradlew, 和 settings.gradle, gradlew.bat!!!</font> 另外在<font color="#ffff00">app文件夹</font>也有一个<font color="#ffff00">build.gradle</font>
+即：<font color="#008688">build.gradle, gradlew, 和 settings.gradle, gradlew.bat!!!</font> 另外在<font color="#008688">app文件夹</font>也有一个<font color="#008688">build.gradle</font>
 
 | List(全部文件列表) |          需求文件
 |-|-  
@@ -351,7 +351,7 @@ if "%OS%"=="Windows_NT" endlocal
 从上方的截图，我们不难看出，Eclipse 地牢项目的主目录在 src 文件夹里面，如下图所示：
 <img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-5.jpg">
 那么，接下来，我们需要将里面的代码进行迁移。
-在你迁移的项目的根目录里面新建一个<b><font color="#ffff00">app文件夹</font></b>，我们所有的东西都会在这里！
+在你迁移的项目的根目录里面新建一个<b><font color="#008688">app文件夹</font></b>，我们所有的东西都会在这里！
 
 打开“app”文件夹，在里面新建 src 文件夹，build.gradle 可以直接获取下面的！
 App 文件夹下的-build.gradle 内容:
