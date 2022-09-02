@@ -43,12 +43,18 @@ layout: default
 <noscript> 为正常使用评论功能请激活JavaScript</noscript>
 </div>
 <!-- end LiveRe -->
-  <div id="comments"
-  data-host="https://cusdis.com"
-  data-app-id="c70af28d-1821-44b7-bbc6-4fd02262d679"
-  data-page-id="{{ PAGE_ID }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
-></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+{% endcomment %}
+
+  
+  {% if site.data.social.valine_comment.enable  == true %}
+  <script src="/comment/av-min.js"></script>
+  <script src="/comment/Valine.min.js"></script>
+    <hr><div id="comments"></div>
+  {% include comments.html %}
+  {% endif %}
+  {% include scripts.html %}
+  
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
 </article>
