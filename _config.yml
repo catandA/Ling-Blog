@@ -4,7 +4,7 @@ keywords: blog,css,html,js,javascripts,androidstuido #博客关键字
 author: "JDSALing"
 
 #title hide and show
-hide: (つェ⊂)待会见啦
+hide: (つェ⊂)待会见
 show: ´∇｀ 欢迎回来~
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -18,8 +18,8 @@ PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议�
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: https://jdsalingzx.top/assets/img/header/triangular.jpeg
-theme_color: 179986
+background: https://jdsalingzx.top/assets/img/header/search-magicgirl.jpeg
+theme_color: 3F51B5
 
 # hydrogen-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
