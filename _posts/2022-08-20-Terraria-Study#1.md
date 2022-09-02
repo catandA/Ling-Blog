@@ -5,6 +5,7 @@ tags: ["C#",学习笔记,Terraria]
 author: jdsaling
 feature-img: "assets/img/pexels/terraria.jpg"
 thumbnail: "assets/img/pexels/computer.jpeg"
+stickie: true
 ---
 
 ---

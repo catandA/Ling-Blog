@@ -5,6 +5,7 @@ tags: [Java,Gradle,IDEA,经验交流,地牢汉化]
 author: jdsaling
 feature-img: "assets/img/pexels/nonameyet.png"
 thumbnail: "assets/img/pexels/nonameyet.png"
+stickie: true
 ---
 
 ---
