@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 友情链接
-tagline: My friends.
+tagline: 旅途中总会遇到志同道合的朋友！
 permalink: /links.html
 ---
 
