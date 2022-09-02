@@ -10,7 +10,7 @@ permalink: /links.html
 Link的Blog--[**[Tmaize-Blog]**](https://atlinker.cn/)
 
 ### LiuLiu
-LiuLiu的Blog--[**[Tmaize-Blog]**](https://liusxs.github.io/liuliu/)
+LiuLiu的Blog--[**[LiuLiu-Blog]**](https://liusxs.github.io/liuliu/)
 
 ### Mason
 Mason的Blog--[**[Mason-Blog]**](https://mason369.github.io/Mason_blog/)
