@@ -84,26 +84,18 @@ public bool DragonLeg_Effect(int X, int Y)
 	return true;
 }
 
-//引用它则应该for循环，至少我是这样的解决的，因为我是初学者。如果你有更好的方案，那自然更好！
+//引用它则应该进行逻辑判定,1和2是恶魔之心一个判断，因为恶魔之心会扩展一个槽位
 ```cs
 public override void FrameEffects()
 {
-    //龙腿的移动特效
-	for (int i = 1; i < 20 + Player.extraAccessorySlots; i++)
-	{
-		if (Player.armor[i].type == ModContent.ItemType<EgDragonNeck>())
-		{
-			Player.DoBootsEffect(DragonLeg_Effect);
-		}
+	if (Player.armor[Player.extraAccessorySlots = 1].type == ModContent.ItemType<DragonLeg>() || Player.armor[Player.extraAccessorySlots = 2].type == ModContent.ItemType<DragonLeg>())
+    {
+	Player.DoBootsEffect(DragonLeg_Effect);
 	}
-    //狐狸荧光的移动特效
-	for (int i = 1; i < 20 + Player.extraAccessorySlots; i++)
-	{
-	if (Player.armor[i].type == ModContent.ItemType<EgWex>())
-	    {
-			Player.DoBootsEffect(EgLeg_Effect);
-	    }
 
+	if (Player.armor[Player.extraAccessorySlots = 1].type == ModContent.ItemType<EgFoxLegs>() || Player.armor[Player.extraAccessorySlots = 2].type == ModContent.ItemType<EgFoxLegs>())
+	{
+	Player.DoBootsEffect(EgLeg_Effect);
 	}
 }
 ```        
