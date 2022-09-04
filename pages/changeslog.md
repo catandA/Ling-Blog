@@ -10,6 +10,7 @@ tags: [ChangesLogs,Blog,Jekyll]
 * 部分API接口优化
 * MathJAX数学公式现在开启
 * 评论功能开放
+* 更新了新的博客
 
 #### 2022-9-3——(博客维护日志-类型:主题优化)
 * 博客主题大更新，基于Hydrogen!

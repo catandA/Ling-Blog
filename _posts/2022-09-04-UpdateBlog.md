@@ -3,6 +3,7 @@ layout: post
 title: 博客全面升级，使用H2主题
 tags: [Jekyll,Github Page,Blog]
 author: jdsaling
+stickie: true
 ---
 ~~~
 撰写于2022年9月4日--建议阅读时间：3分钟
