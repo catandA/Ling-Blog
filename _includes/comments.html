@@ -1,10 +1,22 @@
 <script>
     new Valine({
-        avatar: 'hide',
+        avatar: 'retro',
         av: AV,
         el: '#comments',
         app_id: '{{ site.data.social.valine_comment.leancloud_appid }}',
         app_key: '{{ site.data.social.valine_comment.leancloud_appkey }}',
-        placeholder:'{{ site.data.social.valine_comment.placeholder }}'
+        placeholder:'{{ site.data.social.valine_comment.placeholder }}',
+
+        emojiCDN: '//cdn.jsdelivr.net/gh/LingASDJ/Ling-Blog@master/assets/img/emoji/', 
+
+        emojiMaps: {
+        "猫脑过载": "catdown.jpg",
+        "带劲": "daijing.jpg",
+        "摆烂狐狸": "fox.jpg",
+        "好耶": "good.jpg",
+        "举起手来": "jssl.jpg",
+        "劈叉": "picha.jpg",
+    },
+    
     });
 </script>
