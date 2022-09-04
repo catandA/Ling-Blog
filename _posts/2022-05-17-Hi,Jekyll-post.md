@@ -16,7 +16,7 @@ author: jdsaling
 由于上一个博客期限已近，且由于【**备案**】问题已经停摆。  
 在近期，我使用了更为先进的 <b>*Jekyll*</b> 博客底层引擎重新建立博客。并使用强大的<font color="#008688">GitHub Page</font>进行页面支持。
 
-## **基于 Type-on-Strap主题模板**
+## **基于 Type-on-Strap 主题模板**
 TOSLink: [Type-on-Strap](https://github.com/sylhare/Type-on-Strap)  
 Jekyll: [Jekyll-Blog引擎](https://jekyllrb.com/)
 
