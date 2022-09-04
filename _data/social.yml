@@ -2,4 +2,4 @@ valine_comment:
   enable: true
   leancloud_appid: nvxnrA24JDYhgAspJTvb8Rim-gzGzoHsz
   leancloud_appkey: bcdQrldNf4hv1onga8lMkraP
-  placeholder: 这篇文章怎么样？留下你的足迹吧……(表情首次加载需要梯子,抱歉目前尚未找到好的CDN)
+  placeholder: 这篇文章怎么样？留下你的足迹吧……(表情首次加载需要梯子,抱歉目前尚未找到好的CDN[无痕模式除外])
