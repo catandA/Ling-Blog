@@ -5,9 +5,10 @@ tags: [Jekyll,Github Page,Blog]
 author: jdsaling
 stickie: true
 ---
-~~~
+
+---
 撰写于2022年9月4日--建议阅读时间：3分钟
-~~~
+
 
 ## 更新的导火索：
 因为Type-on-Strap在后期的维护使用起来感觉并不是很好，且布局有一点过于不美观。  
