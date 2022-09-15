@@ -237,7 +237,7 @@ a {
     margin-bottom: 1rem;
     font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
     color: $code-text-color;
-    word-wrap: normal;
+    word-wrap: break-word;
     background-color: $code-bg-color;
     border: solid 1px $border-color;
     border-radius: 0.3rem;
@@ -248,8 +248,7 @@ a {
       font-size: 0.9rem;
       color: $code-text-color;
       word-break: normal;
-      //自动换行
-      white-space: pre-wrap;
+      white-space: pre;
       background: transparent;
       border: 0;
     }
@@ -322,6 +321,12 @@ a {
 
     th {
       font-weight: bold;
+    }
+
+    th,
+    td {
+      padding: 0.5rem 1rem;
+      border: 1px solid $table-border-color;
     }
   }
 
