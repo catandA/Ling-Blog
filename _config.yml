@@ -20,8 +20,8 @@ kramdown:
     coderay_wrap: div
     coderay_line_numbers: inline
     coderay_line_numbers_start: 1
-    coderay_tab_width: 41
-    coderay_bold_every: 10
+    coderay_tab_width: 4
+    coderay_bold_every: 0
     coderay_css: style
 
 #   /*th,
