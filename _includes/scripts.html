@@ -1,6 +1,6 @@
 {% if page.comments %}{% include comments.html %}{% endif %}
 <script>
-        [...document.getElementsByTagName("rouge-code")].forEach((item) => {
+        [...document.getElementsByTagName("pre")].forEach((item) => {
             code.addEventListener("onMouseOver", function (e) {
                 item.style.position = "relative";
                 let copyButton = document.createElement("button");
