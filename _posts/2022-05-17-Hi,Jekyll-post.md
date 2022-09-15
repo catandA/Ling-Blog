@@ -5,9 +5,9 @@ tags: [Jekyll,Github Page,Blog]
 author: jdsaling
 ---
 
-~~~
+---
 撰写于2022年5月17日--建议阅读时间：1分钟
-~~~
+
 
 <font color="#008688">风筝死了，我将它埋葬在这里，谁知道呢，也许有一天你会找到它。——《偷影子的人》</font>
 
@@ -21,7 +21,5 @@ TOSLink: [Type-on-Strap](https://github.com/sylhare/Type-on-Strap)
 Jekyll: [Jekyll-Blog引擎](https://jekyllrb.com/)
 
 ---
-~~~
 全新博客建立，接下来欢迎探寻绫中之书的奥秘！
-~~~
 
