@@ -168,6 +168,7 @@
     }
   }
       </script>
+      {% if site.PJAX %}
       <script>
             [...document.getElementsByClassName("rouge-code")].forEach((item) => {
                 code.addEventListener("onMouseOver", function (e) {
@@ -203,8 +204,6 @@
                 }
             });
         </script>
-      {% if site.PJAX %}
-      <script src = '/assets/js/instantclick.min.js' data-no-instant></script>
       <script data-no-instant>InstantClick.init();</script>
       {% endif %}
   </body>
