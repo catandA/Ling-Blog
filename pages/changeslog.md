@@ -10,6 +10,8 @@ tags: [ChangesLogs,Blog,Jekyll]
 #### [Pixel Dungeon-多语言逆向指南](https://jdsalingzx.top/2022/10/18/Smali-To-Pixel-Dungeon-0.html)
 <img src="https://lingasdj.github.io/Ling-Blog/assets/img/mtsmali/langues.png">
 
+* 修复了一些显示布局问题
+
 #### 2022-9-15——(博客维护日志-类型:常规维护)
 * 代码行号显示加入
 * API接口优化
