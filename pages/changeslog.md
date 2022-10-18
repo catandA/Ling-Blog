@@ -5,6 +5,11 @@ permalink: /changes.html
 tags: [ChangesLogs,Blog,Jekyll]
 ---
 
+#### 2022-10-18——(博客维护日志-类型:更新)
+* 更新了新博客(类型:Pixel Dungeon-多语言逆向指南):
+#### [Pixel Dungeon-多语言逆向指南]()
+<img src="https://lingasdj.github.io/Ling-Blog/assets/img/mtsmali/langues.png">
+
 #### 2022-9-15——(博客维护日志-类型:常规维护)
 * 代码行号显示加入
 * API接口优化
