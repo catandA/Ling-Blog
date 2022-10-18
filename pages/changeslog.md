@@ -7,7 +7,7 @@ tags: [ChangesLogs,Blog,Jekyll]
 
 #### 2022-10-18——(博客维护日志-类型:更新)
 * 更新了新博客(类型:Pixel Dungeon-多语言逆向指南):
-#### [Pixel Dungeon-多语言逆向指南]()
+#### [Pixel Dungeon-多语言逆向指南](https://jdsalingzx.top/2022/10/18/Smali-To-Pixel-Dungeon-0.html)
 <img src="https://lingasdj.github.io/Ling-Blog/assets/img/mtsmali/langues.png">
 
 #### 2022-9-15——(博客维护日志-类型:常规维护)
