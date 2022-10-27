@@ -1,6 +1,6 @@
 //@@@代码块复制
-var codeblocks = document.getElementsByTagName("rouge-code");
-//循环每个rouge-code代码块，并添加 复制代码
+var codeblocks = document.getElementsByTagName("pre");
+//循环每个pre代码块，并添加 复制代码
 
 for (var i = 0; i < codeblocks.length; i++) {
 //显示 复制代码 按钮
