@@ -5,6 +5,17 @@ permalink: /changes.html
 tags: [ChangesLogs,Blog,Jekyll]
 ---
 
+#### 2022-10-27——(博客维护日志-类型：同步更新)
+<img src="https://jdsalingzx.top/theme/logo-h.svg">
+
+##### 同步了H2--V1.2.0的代码：
+> Hydrogen-1.2.0更新说明：  
+1.新增代码块一键复制  
+2.更多过渡动画  
+3.优化资源请求  
+4.修复菜单栏收起后仍会挡住页面导致无法点击的bug  
+5.一些代码逻辑的小优化
+
 #### 2022-10-18——(博客维护日志-类型:更新)
 * 更新了新博客(类型:Pixel Dungeon-多语言逆向指南):
 #### [Pixel Dungeon-多语言逆向指南](https://jdsalingzx.top/2022/10/18/Smali-To-Pixel-Dungeon-0.html)
