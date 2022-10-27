@@ -27,7 +27,7 @@
       <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
     {% endif %}
     <meta name="keywords" itemprop="keywords" content="{{ site.keywords | escape }}">
-    <link rel="shortcut icon" sizes="128x128" href="https://jdsalingzx.top/assets/img/triangle.png">
+    <link rel="shortcut icon" sizes="128x128" href="https://{{ site.url }}{{ site.baseurl }}/avatar/favicon.png">
     <meta name="robots" content="noarchive">
 
    {% comment %}
@@ -50,7 +50,7 @@
       {% assign page-tagline = page.tagline | escape  %}
     {% endif %}
     {% if page.layout == 'tags' %}
-      {% assign page-tagline = page.tagline | escape  %}
+      {% assign page-tagline = page.tagline | escape  %}
     {% endif %}
     <script>
       var OriginTitile = document.title;
@@ -91,8 +91,9 @@
       {{ content }}
 
       <footer class="site-footer">
-        <span id="sitetime" style="color:#009688;"></span><script type='text/javascript' src='https://lingasdj.github.io/Ling-Blog/assets/js/timex.js'></script><br>
-        <span class="site-footer-credits">Power By<a href="https://github.com/link9596/hydrogen/"> Hydrogen</a>.--------</span><span style="color:#009688;" class="lsxs">Copy Right-2021-2022-All right Reserved </span>
+        <span class="site-footer-owner">Originate from <a href="https://atlinker.cn">link</a>.</span>
+        <span class="site-footer-credits">This page was made by<a href="https://github.com/link9596/hydrogen/"> H₂</a>.</span><br>
+        <span class="site-footer-credits" style="font-size:12px">Already <span id="sitetime"></span> days.</span>
         {% comment %} Gh icon
         <span class="my-span-icon">
           <a href="{{ site.github.owner_url }}" aria-label="{{ site.github.owner_name }}'s GitHub" title="{{ site.github.owner_name }}'s GitHub">
@@ -168,52 +169,16 @@
     }
   }
       </script>
-      {% if site.PJAX %}
-      <script>
-            [...document.getElementsByClassName("rouge-code")].forEach((item) => {
-                code.addEventListener("onMouseOver", function (e) {
-                    item.style.position = "relative";
-                    let copyButton = document.createElement("button");
-                    copyButton.style.cssText =
-                        "border-radius: 5px;color:#fff;border-color:#fff;background-color:rgb(0,123,255); position:absolute;right:-8px;font-family: SFMono-Regular,Menlo,Monaco,Consolas,monospace;top:0px;cursor: pointer";
-                    copyButton.innerHTML = "复制";
-                    copyButton.onclick = function () {
-                        let copyData = item.firstChild.innerText;
-                        copyToClipboard(copyData);
-                        copyButton.innerHTML = "复制成功";
-                        setTimeout(function () {
-                            copyButton.innerHTML = "复制";
-                        }, 1000);
-                    };
-                    item.appendChild(copyButton);
-                });
-                // js 复制到剪贴板
-                function copyToClipboard(content) {
-                    if (window.clipboardData) {
-                        window.clipboardData.setData("text", content);
-                    } else {
-                        (function (content) {
-                            document.oncopy = function (e) {
-                                e.clipboardData.setData("text", content);
-                                e.preventDefault();
-                                document.oncopy = null;
-                            };
-                        })(content);
-                        document.execCommand("Copy");
-                    }
-                }
-            });
-        </script>
       <script src='/assets/js/core.js'></script>
-    {% if site.PJAX %}
+      {% if site.PJAX %}
       <script src = '/assets/js/instantclick.min.js' data-no-instant></script>
       <script data-no-instant>InstantClick.on('change', function (isInitialLoad) {
-     document.getElementById('fold').style.height='0px';//初始化
-       if (isInitialLoad === false) {
-           //instantClick回调函数
-       }
-   });
-     InstantClick.init();</script>
- {% endif %}
+          document.getElementById('fold').style.height='0px';//初始化
+            if (isInitialLoad === false) {
+                //instantClick回调函数
+            }
+        });
+          InstantClick.init();</script>
+      {% endif %}
   </body>
 </html>
