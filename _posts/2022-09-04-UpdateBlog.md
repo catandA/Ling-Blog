@@ -3,7 +3,6 @@ layout: post
 title: 博客全面升级，使用H2主题
 tags: [Jekyll,Github Page,Blog]
 author: jdsaling
-stickie: true
 ---
 
 ---
