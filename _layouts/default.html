@@ -168,52 +168,16 @@
     }
   }
       </script>
+      <script src='/assets/js/core.js'></script>
       {% if site.PJAX %}
-      <script>
-            [...document.getElementsByClassName("rouge-code")].forEach((item) => {
-                code.addEventListener("onMouseOver", function (e) {
-                    item.style.position = "relative";
-                    let copyButton = document.createElement("button");
-                    copyButton.style.cssText =
-                        "border-radius: 5px;color:#fff;border-color:#fff;background-color:rgb(0,123,255); position:absolute;right:-8px;font-family: SFMono-Regular,Menlo,Monaco,Consolas,monospace;top:0px;cursor: pointer";
-                    copyButton.innerHTML = "复制";
-                    copyButton.onclick = function () {
-                        let copyData = item.firstChild.innerText;
-                        copyToClipboard(copyData);
-                        copyButton.innerHTML = "复制成功";
-                        setTimeout(function () {
-                            copyButton.innerHTML = "复制";
-                        }, 1000);
-                    };
-                    item.appendChild(copyButton);
-                });
-                // js 复制到剪贴板
-                function copyToClipboard(content) {
-                    if (window.clipboardData) {
-                        window.clipboardData.setData("text", content);
-                    } else {
-                        (function (content) {
-                            document.oncopy = function (e) {
-                                e.clipboardData.setData("text", content);
-                                e.preventDefault();
-                                document.oncopy = null;
-                            };
-                        })(content);
-                        document.execCommand("Copy");
-                    }
-                }
-            });
-        </script>
- <script src='/assets/js/core.js'></script>
- {% if site.PJAX %}
- <script src = '/assets/js/instantclick.min.js' data-no-instant></script>
- <script data-no-instant>InstantClick.on('change', function (isInitialLoad) {
-     document.getElementById('fold').style.height='0px';//初始化
-       if (isInitialLoad === false) {
-           //instantClick回调函数
-       }
-   });
-     InstantClick.init();</script>
- {% endif %}
-</body>
+      <script src = '/assets/js/instantclick.min.js' data-no-instant></script>
+      <script data-no-instant>InstantClick.on('change', function (isInitialLoad) {
+          document.getElementById('fold').style.height='0px';//初始化
+            if (isInitialLoad === false) {
+                //instantClick回调函数
+            }
+        });
+          InstantClick.init();</script>
+      {% endif %}
+  </body>
 </html>
