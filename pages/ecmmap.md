@@ -1,8 +1,9 @@
 ---
 layout: page
-title: ECM-MAP地图教程
+title: ECM-MAP
 permalink: /ecmmap.html
 tags: [ECM]
+sitetime: display
 ---
 
 # 目录
