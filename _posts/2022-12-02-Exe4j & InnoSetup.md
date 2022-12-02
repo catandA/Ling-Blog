@@ -92,7 +92,7 @@ Tips:如果你电脑本身有Java环境变量，那么这里改了文件夹名�
 
 5.Inno SetUp 配置：  
 直接上GIF:
-<img src="../assets/img/exe4j/is.gif">
+<img src="../assets/img/exe4j/IS.gif">
 
 最终编译出来是一个exe包，安装后就可以用了！教程结束。
 <img src="../assets/img/exe4j/end.gif">
