@@ -5,6 +5,12 @@ permalink: /changes.html
 tags: [ChangesLogs,Blog,Jekyll]
 ---
 
+#### 2022-12-02——(博客维护日志-类型：更新)
+
+* 更新了新博客(类型:更新):
+#### [利用Exe4J & Inno Setup 将JAR编译为EXE (实现无JRE/JDK)](https://jdsalingzx.top/2022/12/02/Exe4j-&-InnoSetup.html)
+<img src="https://lingasdj.github.io/Ling-Blog/assets/img/exe4j/Exe4j1.png">
+
 #### 2022-10-27——(博客维护日志-类型：同步更新)
 <img src="https://jdsalingzx.top/theme/logo-h.svg">
 
