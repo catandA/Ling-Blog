@@ -37,6 +37,19 @@
     <link rel="stylesheet" href="https://{{ site.url }}{{ site.baseurl }}/assets/css/fade.css">
   </head>
   <body>
+    <style>
+      html{
+          -webkit-filter: grayscale(100%);
+          -moz-filter: grayscale(100%);
+          -ms-filter: grayscale(100%);
+          -o-filter: grayscale(100%);
+          filter: grayscale(100%);
+          -webkit-filter: gray;
+          filter: gray;
+          -webkit-filter: progid:dximagetransform.microsoft.basicimage(grayscale=1);
+          filter: progid:dximagetransform.microsoft.basicimage(grayscale=1);
+      }
+  </style>
 
     {% include site-header.html %}
 
