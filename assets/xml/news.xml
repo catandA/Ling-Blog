@@ -1,0 +1,504 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+<link href="https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml" rel="self" type="application/atom+xml"/>
+<link href="https://shatteredpixel.com/" rel="alternate" type="text/html"/>
+<updated>2021-08-17T18:04:16+00:00</updated>
+<id>https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml</id>
+<entry>
+<title type="html">MLPD-V0.6-Beta21-V2.8更新说明</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-17T03:00:00+00:00</published>
+<updated>3055-6-17T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 262"/>
+<summary type="html">
+1.修复了极度秘卷的未被鉴定的问题
+2.调整了吸血鬼刀的数据，新公式：_最大血量*0.1+武器等级*0.5+1.5_
+3.修复了一系列的Bug
+4.部分素材优化，删除了用户ID系统
+</summary>
+</entry>
+<entry>
+<title type="html">相约寒冬，不见不散!</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-16T03:00:00+00:00</published>
+<updated>3055-6-16T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 262"/>
+<summary type="html">
+金秋佳节逢休时，相聚寒冬共邀约。
+</summary>
+</entry>
+<entry>
+<title type="html">V0.6-Beta21最终测试已开始</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-15T03:00:00+00:00</published>
+<updated>3055-6-15T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 548"/>
+<summary type="html">魔绫像素地牢--Beta21最终测试:
+上半段即将完结，敬请期待！！！
+</summary>
+</entry>
+<entry>
+<title type="html">魔绫像素地牢--遗落古堡</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-13T03:00:00+00:00</published>
+<updated>3055-6-13T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 520"/>
+<summary type="html">魔绫像素地牢--遗落古堡:
+???：经过了这么多次的探索，相信你仍然在追寻最终的目标。
+在那之前，你仍然需要准备很多东西……
+</summary>
+</entry>
+<entry>
+<title type="html">魔绫像素地牢祝你中秋快乐</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-12T03:00:00+00:00</published>
+<updated>3055-6-12T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 488"/>
+<summary type="html">魔绫像素地牢祝你中秋节快乐：
+1.月饼已经加入游戏，有效时间：2022.9.10-10.1
+2.商店抢劫系统V6.0和雪凛峡谷已经加入
+==========================================
+点击下方查阅更多可以加入开发总群以获得最新情报
+==========================================
+</summary>
+</entry>
+<entry>
+<ling type="html">700721</ling>
+<title type="html">雪凛峡谷-调查报告</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-10T03:00:00+00:00</published>
+<updated>3055-6-10T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 262"/>
+<summary type="html">雪凛峡谷-情报追踪:
+ 大体位置:地面地表;情报追踪员:罗伦斯
+ 情报说明:
+ 雪凛峡谷，是大自然的鬼斧神工，也是商人们的栖息之地。
+ 这里的外观像极了一个雪花️标志，因此被称为雪凛峡谷。
+ 这里虽极度寒冷，但商人们的科技让这里变的暖和。
+ 冒险者，据我调查，商人们收留了一个红发少女。
+ 如果我没有猜错的话，这个少女很可能就是XXXX,
+ 冒险者，如果你要前往雪凛峡谷。那么一定要小心。
+ 因为300年前那场大火，商人们对外人都很警惕，
+ 冒险者，祝你一路顺风。罗伦斯敬上！
+</summary>
+</entry>
+<entry>
+<title type="html">重大更新-V0.6.0-Beta14-基于123破碎版本</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-9T03:00:00+00:00</published>
+<updated>3055-6-9T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 262"/>
+<summary type="html">重大更新-V0.6.0.0-Beta14:
+经过了一段时间的酝酿，魔绫像素地牢终于合并了破碎123版本。
+目前Beta14仅在官方开发总群和明日方舟地牢二群有，
+欢迎各位前来体验新版本测试，正式版将会在8月期间更新，敬请期待！！！
+==========================================
+点击下方查阅更多可以加入开发总群以获得最新情报
+==========================================
+</summary>
+</entry>
+<entry>
+<title type="html">寻觅梦境，踏寻昔日之风</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-4T03:00:00+00:00</published>
+<updated>3055-6-4T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 553"/>
+<summary type="html">梦境中，有太多魂牵梦绕的地方。金色的宫殿，是最后的归宿。
+但是，更多的是现在的迷茫与茫然。我们能否坚持活下去，直到生命的尽头？冒险者，你真的清楚自己在做什么吗？
+踏上寻找昔日的故乡之风，水晶的裂痕已然敲响，我们真的要把她封印吗？
+</summary>
+</entry>
+<entry>
+<title type="html">即将到来-V0.6.1-基于123破碎版本</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-2T03:00:00+00:00</published>
+<updated>3055-6-2T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 548"/>
+<summary type="html">为了保证下半段更新，
+上半段即将合并到破碎最新版。同时也会添加第四层天赋，以及一些新东西。
+如果你要知晓最新新版情报，请点击下方了解加开发总群。
+敬请期待！Coming Soon!_咕咕咕_！！!
+</summary>
+</entry>
+<entry>
+<title type="html">魔绫上半段即将完结</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-1T03:00:00+00:00</published>
+<updated>3055-6-1T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 546"/>
+<summary type="html">上半段持续了近一年左右的时光最终也要圆满落下帷幕了，从2021-2-12到今天2022-6-1。
+魔绫已经渐渐拥有了自己的一些特殊机制和特殊的玩法。
+曾经，有人问我，魔绫的特点是什么？我当时却不知道如何回答。
+如今，魔绫已经在渐渐趋向于完善。并向着简单，但可能困难，困难但可能有趣的路程。
+我深知，魔绫地牢的开发道路路还远远仅是一个开始。
+在下半段，我不仅要为大家带来魔绫的最终结局。也会让大家看见我后面的一些惊喜。
+魔绫是我的第一款地牢，也很有可能是最后一款地牢。
+在未来，我不清楚我走向何方。
+但至少，魔绫的旅途，远远没有结束。
+一切，才刚刚开始。风暴袭来，地表的阴谋与地下的恶魔正在蠢蠢欲动。
+谁才是主宰一切又或者是只是一个过客？亦或者，我们……本就不存在？
+</summary>
+</entry>
+<entry>
+<title type="html">V0.6-Beta9预告</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-1T03:00:00+00:00</published>
+<updated>3055-6-1T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 546"/>
+<summary type="html">1.添加新手教程地图
+2.实装浊焰地狱,Boss Rush两大模式
+3.彻底大改露珠瓶，终焉加入
+4.其他细节优化处理
+=============================
+点击下方查阅更多可以加入开发总群
+</summary>
+</entry>
+<entry>
+<title type="html">V0.6-BETA8-更新预告</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-5-6T03:00:00+00:00</published>
+<updated>3055-5-6T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 550"/>
+<summary type="html">1.优化猩红大盗的贴图
+2.实装DM920,Boss Rush两大模式
+要参与先导版本测试 请自行点_查阅更多_加群！！！
+</summary>
+</entry>
+<entry>
+<title type="html">矮人领主机制说明</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-5-6T03:00:00+00:00</published>
+<updated>3055-5-6T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 552"/>
+<summary type="html">血量500血，主要有两大阶段。
+200前一个阶段，200以下二阶段。
+技能：
+技能一--健步如飞（在水里移动速度大幅度提升，伤害大幅度提升)
+技能二--矮人军队（持续召唤矮人军队）
+技能三--魔力爆发（蓄力后冲击敌人，敌人获得易伤）
+技能四--荣耀之光（召唤全屏大激光 造成高额伤害）
+技能五--审判降临（矮人大师立刻召唤激光使玩家陷入失明）
+技能六--英勇无畏（军队立刻自爆造成大规模伤害）
+技能七--矮人意志（血量低于200，速度和伤害大幅度提升，并出现额外特殊召唤敌人，
+同时自身进入永久无敌状态（需要击败特别怪物才能扣大师的血））
+</summary>
+</entry>
+<entry>
+<title type="html">V0.6-BETA7-现已更新</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-5-6T03:00:00+00:00</published>
+<updated>3055-5-6T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 553"/>
+<summary type="html">1.优化猩红大盗的贴图(跳票)
+2.添加矮人大师领主（New Boss)
+3.调整部分UI调整
+6.修复了一系列的Bug
+要参与先导版本测试 请自行点_查阅更多_加群！！！
+</summary>
+</entry>
+<entry>
+<title type="html">V0.6 先导版本-BETA5</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-5-4T03:00:00+00:00</published>
+<updated>3055-3-4T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 550"/>
+<summary type="html">1.修复了25层无Boss的问题
+2.修复了其他小型问题
+3.调整了新闻界面
+要参与先导版本测试 请自行点_查阅更多_加群！！！
+</summary>
+</entry>
+<entry>
+<title type="html">魔绫像素地牢官方总群诚邀你的加入</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-5-3T03:00:00+00:00</published>
+<updated>3055-3-3T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 262"/>
+<summary type="html">欢迎来到蜜雪冰城魔绫分店！！！
+Welcome You！！！
+</summary>
+</entry>
+<entry>
+<title type="html">致谢名单</title>
+<link href="#" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-5-3T03:00:00+00:00</published>
+<updated>3055-5-3T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 553"/>
+<summary type="html">亲爱的测试朋友们:
+如今绫的Java技术已经是慢慢提升上去了，
+特别再次感谢下列人员！
+特别感谢：
+-冷群
+-小狐狸
+-Fang
+-Ob-Sir
+-Tianscar
+-不是史神
+-最强浴火
+-猫羽霖
+-SmuJB
+-CodenameE
+
+狂暴宣传组长：
+那些回忆
+罗贝里
+泰勒
+
+原创音乐鸣谢：
+-Prohonor
+
+原创素材鸣谢：
+-被子
+-冷群
+
+引导者：
+-REN (夜临作者)
+-Alex (红龙)
+-SmuJB (诅咒作者)
+-TrashBox (经验作者)
+-Evan (破碎)
+-Tianscar (碳化作者)
+以及各位测试人员！
+</summary>
+</entry>
+<entry>
+<title type="html">魔绫像素地牢-V0.6更新通知</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-5-2T03:00:00+00:00</published>
+<updated>3055-5-2T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shatteredpd-v120-and-steam-release</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 550"/>
+<summary type="html">
+虽然当时0.5已经说是最终版了，但是由于当时内容还比较少，
+加上还有一些问题。因此，0.6是优化和追加一些新内容。
+目前已经在魔绫开发总群开启链接。欢迎你加群前来测试。
+点击下方Δ查阅更多Δ加群以获得新版本！
+</summary>
+</entry>
+<entry>
+<title type="html">魔绫像素地牢-4-11(V0.5.X.100)更新说明</title>
+<link href="https://lingasdj.lanzouh.com/in4fQ030svcf" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-4-4T03:00:00+00:00</published>
+<updated>3055-4-4T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-new-content-and-steam</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 549"/>
+<summary type="html">
+4.11更新说明：
+1.商人抢劫系统得到一定的改进
+2.修复了一系列的Bug
+3.UI界面优化
+</summary>
+</entry>
+<entry>
+<title type="html">魔绫像素地牢3-30维护通知 13点细节修复</title>
+<link href="https://lingasdj.lanzouh.com/ifdJb02al12h" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-4-3T03:00:00+00:00</published>
+<updated>3055-4-3T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v110</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 549"/>
+<summary type="html">
+3.30上半段维护更新通知
+1.吸血鬼刀改进 感谢@A神 的建议
+公式为：角色最大血量*0.01+武器等级*0.5+0.8
+温馨提示：是取整 6.9=6 而不是四舍五入
+举例：0级武器 1级角色
+20x0.01+0*0.5+0.8=0.2+0+0.8=1
+10级武器 10级角色
+70x0.01+10x0.5+0.8=0.7+5+0.8=6.5=6
+==============================
+2.修复重生十字架bug
+================================
+13点细微修复更新:
+3.修复上个版本过滤器问题
+点击下方Δ查阅更多Δ以获得新版本！
+Γ温馨提示：如果没有按钮则说明版本过低Γ
+</summary>
+</entry>
+<entry>
+<title type="html">暴风雨的到来</title>
+<link href="#" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-3-2T03:00:00+00:00</published>
+<updated>3055-3-2T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 530"/>
+<summary type="html">黑暗到来，暴风雨肆虐了整个地面
+阴沉的环境，必定会有不好的事情发生。
+英雄们已经击败古神，从地牢归来，
+然则，地牢三巨头紧急召开会议，
+英雄们再次被卷入了一场巨大的阴谋之中！！！
+？？？:死亡不是我们的终点，但那个高礼帽的家伙必须受到制裁！！！
+</summary>
+</entry>
+<entry>
+<title type="html">风暴仍在，魔绫下半段即将到来</title>
+<link href="#" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-3-1T03:00:00+00:00</published>
+<updated>3055-3-1T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 529"/>
+<summary type="html">为何三百年前一场大火让这里毁于一旦？
+霜落雨凉真实目的是什么？
+夏洛是谁，回忆又有怎样的计谋。
+yog说出了一个惊天的秘密，肇事者竟然是■■■■■■■■!
+风暴的背后，是惊天的秘密。
+敬请期待-魔绫像素地牢-霜雪奇遇（下半段）
+</summary>
+</entry>
+<entry>
+<title type="html">地面会议</title>
+<link href="#" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-3-4T03:00:00+00:00</published>
+<updated>3055-3-4T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 528"/>
+<summary type="html">冷群：情况比想象的糟糕
+？？？：此话从何说起？
+冷群：我们可能无法继续掩埋下去了！不如我们……
+？？？：不可能！她就是祸乱之源！
+冷群：可……是……
+？？？：如果你想保护你的子民，那么就应该服从安排！
+冷群：……，遵命，血魔伯爵！
+血魔伯爵：那么，她那边呢？
+冷群：已经在等着他们了！
+血魔伯爵：好的，游戏，才刚刚开始！！！
+</summary>
+</entry>
+<entry>
+<title type="html">新年快乐，阖家安康！</title>
+<link href="#" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-2-29T03:00:00+00:00</published>
+<updated>3055-2-29T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 526"/>
+<summary type="html">所有打开这封感谢信的朋友们：
+感谢你们对魔绫像素地牢的支持，
+一直以来，我从未想过魔绫能开发接近一年，
+是各位的支持和帮助才让魔绫到了现在。
+感谢大家，也感谢REN和红龙哥的初期帮助，
+同时更加感谢制作组的Prohonor的原创音乐支持，
+一些测试人员代表：迷茫，口水猫，月枭，小狐狸等大力测试，
+宣传特别感谢那些回忆和罗贝里的大力帮助，
+编码方面感谢SmuJB,TrashBox等的大力帮助，
+更要感谢奈亚子，冷群怪，Danicel，碳酸等大力帮助。
+感谢你们，同时祝所有人新年快乐，2022年，我们一起继续努力。
+                          ---Dev:JDSA Ling
+</summary>
+</entry>
+<!-- title type="html">卡片标题 不会显示在游戏里面</title><subtitle>卡片副标题 不会显示在游戏里面</subtitle><author><name>JDSA Ling</name></author><entry><title type="html">游戏内卡片标题</title><link href="要跳转的源网址 是查看更多的按钮链接跳转" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!" /><published>2021-08-17T00:00:00+00:00</published><updated>2021-08-17T00:00:00+00:00</updated><id>https://shatteredpixel.com/blog/shatteredpd-v100-and-ios-release 这里是id 非网页链接</id><author><name>输入作者名字</name></author><category term="SHPD_INGAME" /><category term="SHPD_ICON_v464: ITEM: 63" /><category term="SHPD_ICON_v533: ITEM: 61" /><summary type="html">游戏内卡片描述 魔绫像素地牢已经迁移到SPDV0.9.2b</summary></entry -->
+<!-- 上面是卡片示范 顺带一提 Evan怕是十年脑溢血才敢写这么复杂 -->
+</feed>
