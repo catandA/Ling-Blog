@@ -15,10 +15,10 @@ stickie: true
 众所周知，由于<font color="#ff0000">Watabou(原版地牢作者)</font>和<font color="#ff0000">仓鼠(另类地牢作者)</font>的多语言系统一个没做，一个懒得做。（指指点点）  
 就导致了大部分地牢都没有多语言系统，而我们在迁移了破碎的文本系统后，却会出现切屏文字错乱的一种常见问题。  
 如下图所示：
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/question.jpg">
+<img src="https://jdsalingzx.top/assets/img/java/question.jpg">
 
 ### 正常情况下：
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/rightyo.jpg">
+<img src="https://jdsalingzx.top/assets/img/java/rightyo.jpg">
 
 ### 分析问题：
 在原版，由于字体都是贴图文字，所以切换屏幕很容易导致地牢的贴图错乱。 

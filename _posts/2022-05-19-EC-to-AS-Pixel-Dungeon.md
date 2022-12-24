@@ -37,12 +37,12 @@ stickie: true
 那么将 Eclipse 地牢项目转成 AS 项目，就必须想办法构建 Model。
 这里以我汉化的自然之神的像素地牢为例子！！！  
 自然之神的源码的原始样子:  
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior.jpg">
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-2.jpg">
+<img src="https://jdsalingzx.top/assets/img/java/deior.jpg">
+<img src="https://jdsalingzx.top/assets/img/java/deior-2.jpg">
 
 ---
 上面的项目结构Android Studio是无法直接识别的，我们要改为AS识别的样子，如下图所示：
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-3.jpg">
+<img src="https://jdsalingzx.top/assets/img/java/deior-3.jpg">
 
 首先，从上面的几张截图中，我们不难看出 AS 结构下的目录更加简洁，且效率更
 高。那么，要迁移 Eclipse 项目首先保证你工程的根目录有四个文件。
@@ -347,9 +347,9 @@ if "%OS%"=="Windows_NT" endlocal
 ---
 当然，有了这 4 个只是一个开始。接下来，我们需要迁移游戏核心代码！
 下方的截图是自然之神的原始源代码：
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-4.jpg">
+<img src="https://jdsalingzx.top/assets/img/java/deior-4.jpg">
 从上方的截图，我们不难看出，Eclipse 地牢项目的主目录在 src 文件夹里面，如下图所示：
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/deior-5.jpg">
+<img src="https://jdsalingzx.top/assets/img/java/deior-5.jpg">
 那么，接下来，我们需要将里面的代码进行迁移。
 在你迁移的项目的根目录里面新建一个<b><font color="#008688">app文件夹</font></b>，我们所有的东西都会在这里！
 
@@ -396,9 +396,9 @@ android {
 新建好 src 文件夹和上面的 build.gradle 后，现在就是迁移工程的时候了！
 打开 <font color="#ff000">src 文件夹</font>，并新建一个<font color="#ff000"> main 文件夹</font>！打开 <font color="#ff000">main 文件夹</font>，新建下面截图的所有文件
 夹。<font color="#ff000">AndroidManifest.xml</font> 若<font color="#ff000">原始源代码存在该文件</font>则直接拉过来，否则，请使用博客里面的！  
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/etafile.jpg">  
+<img src="https://jdsalingzx.top/assets/img/java/etafile.jpg">  
 三个文件夹和 AndroidManifest.xml 文件的对照关系为：
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/etalogo.jpg">  
+<img src="https://jdsalingzx.top/assets/img/java/etalogo.jpg">  
 AndroidManifest.xml(参考):
 ~~~xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -460,13 +460,13 @@ Gradle 的话, Android Stuido 自己知道配置，你无需添加 gradle 文件
 这里总结常见的错误更正方法！  
 #### No.1---- Plugin with id 'com.android.application' not found
 问题截图事项：  
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/error1.jpg">  
+<img src="https://jdsalingzx.top/assets/img/java/error1.jpg">  
 分析：出现这个问题是你没认真听讲，恼！  
 你的 settings.gradle 在根目录不存在或者是放错路径了！
 
 ---
 #### No.2----Unable to find Gradle tasks to build: [:].
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/error2.jpg">
+<img src="https://jdsalingzx.top/assets/img/java/error2.jpg">
 
 分析：出现这个问题是因为你可能没有打开 app 文件夹，但部分地牢是可以直
 接打开上一级文件夹的并能成功构建的，这个根据实际情况而定！
@@ -474,7 +474,7 @@ Gradle 的话, Android Stuido 自己知道配置，你无需添加 gradle 文件
 
 ---
 #### No.3---- Cannot resolve method 'cos' in 'FloatMath'
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/error3.jpg">
+<img src="https://jdsalingzx.top/assets/img/java/error3.jpg">
 
 分析：FloatMath 的旧版写法，AS3.0 以上已不再支持该写法  
 解决方法：
@@ -485,7 +485,7 @@ TIPS:可以使用 Ctrl+Shift+R 进行全局替换！！！
 
 ---
 #### No.4---- Not Found Android.v4 v7 v14 More……
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/error4.jpg">
+<img src="https://jdsalingzx.top/assets/img/java/error4.jpg">
 
 分析：由于 AndroidV4 V7 已经过时，AS 不再支持自动读取这些依赖库！你需
 要在 app 文件夹下的依赖库列表里面添加：
@@ -508,7 +508,7 @@ dependencies {
 
 ---
 #### No.5---- 打包成功的游戏闪退崩溃！
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/error5.jpg">
+<img src="https://jdsalingzx.top/assets/img/java/error5.jpg">
 
 如果上面的区域发红，则说明启动项有问题！
 分析：这可能是 AndroidManifest.xml 的 Actively 没有改为这个地牢的启动

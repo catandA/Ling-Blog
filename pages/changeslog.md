@@ -9,7 +9,7 @@ tags: [ChangesLogs,Blog,Jekyll]
 
 * 更新了新博客(类型:更新):
 #### [利用Exe4J & Inno Setup 将JAR编译为EXE (实现无JRE/JDK)](https://jdsalingzx.top/2022/12/02/Exe4j-&-InnoSetup.html)
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/exe4j/Exe4j1.png">
+<img src="https://jdsalingzx.top/assets/img/exe4j/Exe4j1.png">
 
 #### 2022-10-27——(博客维护日志-类型：同步更新)
 <img src="https://jdsalingzx.top/theme/logo-h.svg">
@@ -25,7 +25,7 @@ tags: [ChangesLogs,Blog,Jekyll]
 #### 2022-10-18——(博客维护日志-类型:更新)
 * 更新了新博客(类型:Pixel Dungeon-多语言逆向指南):
 #### [Pixel Dungeon-多语言逆向指南](https://jdsalingzx.top/2022/10/18/Smali-To-Pixel-Dungeon-0.html)
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/mtsmali/langues.png">
+<img src="https://jdsalingzx.top/assets/img/mtsmali/langues.png">
 
 * 修复了一些显示布局问题
 
@@ -47,7 +47,7 @@ tags: [ChangesLogs,Blog,Jekyll]
 #### 2022-8-21——(博客维护日志-类型:更新)
 * 更新了新博客(类型:危机合约#10-尘环行动):
 #### [危机合约#10-尘环行动](https://jdsalingzx.top/2022/08/21/WR-10.html)
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/ark/wrnskz2.jpg">
+<img src="https://jdsalingzx.top/assets/img/ark/wrnskz2.jpg">
 
 #### 2022-8-20——(博客维护日志-类型:更新)
 * 更新了新博客(类型:泰拉瑞亚Mod学习笔记#1):
@@ -59,7 +59,7 @@ tags: [ChangesLogs,Blog,Jekyll]
 
 #### 2022-6-13——(博客维护日志-类型:更新)
 * 更新了新博客(类型:地牢编码经验交流):
-#### [非破碎文本系统，汉化地牢后文字切屏错乱的解决方案(点击进入)](https://lingasdj.github.io/Ling-Blog/2022/06/13/Reload-Text-Do-you-knows.html)
+#### [非破碎文本系统，汉化地牢后文字切屏错乱的解决方案(点击进入)](https://jdsalingzx.top/2022/06/13/Reload-Text-Do-you-knows.html)
 
 #### 2022-5-22——(博客维护日志-类型:更新)
 * 更新了新的友情链接
@@ -68,15 +68,15 @@ tags: [ChangesLogs,Blog,Jekyll]
 
 #### 2022-5-20——(博客维护日志-类型:优化)
 1.更新了新博客(类型:纪念画廊):
-#### [危机合约#9--渊默行动纪念大合照(点击进入)](https://lingasdj.github.io/Ling-Blog/2022/05/20/wr-9-ps.html)
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/ark/wrnskz.jpg">
+#### [危机合约#9--渊默行动纪念大合照(点击进入)](https://jdsalingzx.top/2022/05/20/wr-9-ps.html)
+<img src="https://jdsalingzx.top/assets/img/ark/wrnskz.jpg">
 2.调整了部分字体和代码高亮渲染方式
 
 ---
 #### 2022-5-19——(博客维护日志-类型:更新)
-<img src="https://lingasdj.github.io/Ling-Blog/assets/img/java/etalogo.jpg"> 
+<img src="https://jdsalingzx.top/assets/img/java/etalogo.jpg"> 
 1.更新了新博客:  
-#### [迁移Eclipse到Android Stuido的地牢项目教程](https://lingasdj.github.io/Ling-Blog/2022/05/19/EC-to-AS-Pixel-Dungeon.html) 
+#### [迁移Eclipse到Android Stuido的地牢项目教程](https://jdsalingzx.top/2022/05/19/EC-to-AS-Pixel-Dungeon.html) 
 2.其他界面优化
 
 ---
