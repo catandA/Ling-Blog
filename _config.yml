@@ -46,7 +46,8 @@ paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
 background: https://jdsalingzx.top/assets/img/header/search-magicgirl.jpeg
-theme_color: 1BB6BE
+# 新年快乐
+theme_color: #ff1B1B
 
 # hydrogen-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
