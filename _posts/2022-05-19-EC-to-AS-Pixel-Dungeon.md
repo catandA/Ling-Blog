@@ -5,7 +5,6 @@ tags: [Java,Gradle,IDEA,经验交流]
 author: jdsaling
 feature-img: "assets/img/pexels/androidstuido.jpeg"
 thumbnail: "assets/img/pexels/computer.jpeg"
-stickie: true
 ---
 
 ---
