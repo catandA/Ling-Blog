@@ -45,9 +45,9 @@ PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议�
 paginate: 4 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: https://jdsalingzx.top/assets/img/header/newx.jpeg
+background: https://jdsalingzx.top/assets/img/header/moon.jpeg
 # 新年快乐
-theme_color: ef1B1B
+theme_color: ff3f3f7c
 
 # hydrogen-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
