@@ -47,7 +47,7 @@ paginate_path: "page:num"
 
 background: https://jdsalingzx.top/assets/img/header/moongirl.jpeg
 # 新年快乐
-theme_color: ff3f3f7c
+theme_color: 3ff6ff7d
 
 # hydrogen-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
