@@ -13,7 +13,7 @@ tags: [ChangesLogs,Blog,Jekyll]
 
 * 更新了新博客(类型:更新):
 #### [再见2022，你好2023！](https://jdsalingzx.top/2022/12/31/GoodBye2022.html)
-<img src="https://jdsalingzx.top/assets/img/2022/TS/1.jpg">
+<img src="http://103.205.253.39:11450/img/1.c209cd2e.jpg">
 
 #### 2022-12-02——(博客维护日志-类型：更新)
 
