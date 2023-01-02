@@ -7,7 +7,7 @@ permalink: /links.html
 
 ---
 ### AnsdoShip Web Page
-AnsdoShip--[**[Link-Blog]**](https://ansdoship.github.io/)
+AnsdoShip--[**[AnsdoShip]**](https://ansdoship.github.io/)
 
 ---
 ### Link's Blog
