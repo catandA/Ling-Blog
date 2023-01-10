@@ -1,0 +1,27 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+<link href="https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml" rel="self" type="application/atom+xml"/>
+<link href="https://shatteredpixel.com/" rel="alternate" type="text/html"/>
+<updated>2021-08-17T18:04:16+00:00</updated>
+<id>https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml</id>
+<entry>
+<title type="html">SPDNET-V1.4.3测试服已经开启！</title>
+<link href="https://jq.qq.com/?_wv=1027&k=Srcrez6p" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>2023-1-10T12:30:00+00:00</published>
+<updated>2023-1-10T12:30:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+<author>
+<name>SPDNET-DEV</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 526"/>
+<summary type="html">首先提前祝大家过年好，新年快乐
+SPDNET开发者JDSALing,Catand祝各位兔年吉祥如意，兔年顶呱呱。
+测试服已经开启！我们优化了很多老版本的东西，希望大家玩的愉快，
+有任何问题都可以在群里面艾特我们，我们会尽量帮忙解决！
+                --SPDNETDEV(JDSALing,Catand,EElainaya)
+</summary>
+</entry>
+<!-- title type="html">卡片标题 不会显示在游戏里面</title><subtitle>卡片副标题 不会显示在游戏里面</subtitle><author><name>JDSA Ling</name></author><entry><title type="html">游戏内卡片标题</title><link href="要跳转的源网址 是查看更多的按钮链接跳转" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!" /><published>2021-08-17T00:00:00+00:00</published><updated>2021-08-17T00:00:00+00:00</updated><id>https://shatteredpixel.com/blog/shatteredpd-v100-and-ios-release 这里是id 非网页链接</id><author><name>输入作者名字</name></author><category term="SHPD_INGAME" /><category term="SHPD_ICON_v464: ITEM: 63" /><category term="SHPD_ICON_v533: ITEM: 61" /><summary type="html">游戏内卡片描述 魔绫像素地牢已经迁移到SPDV0.9.2b</summary></entry -->
+<!-- 上面是卡片示范 顺带一提 Evan怕是十年脑溢血才敢写这么复杂 -->
+</feed>
